@@ -21,3 +21,11 @@
 
 ## About the Paper
 RADO is a novel framework for radiology impression generation that integrates safety, faithfulness, and linguistic refinement rewards for preference optimization. To support robust evaluation, we introduce RIB, a radiologist-curated benchmark of 2,800 annotated CT and MRI findings and impressions across 27 study types. RADO achieves state-of-the-art performance across automatic and human evaluation metrics, demonstrating improved factual consistency, reduced omissions, and higher clinical relevance — advancing the safety and reliability of generative AI in high-stakes medical applications.
+
+## Contributions
+
+- RIB Dataset: 2,800 expert-annotated radiology reports across 27 study types, built with structured clinical guidelines and multi-stage quality control.
+- RADO Framework: Expert-informed reward models targeting key failure modes — fabrication, severity misclassification, terminology errors, and omissions — through calibrated safety, faithfulness, and linguistic components.
+- Empirical Evaluation: Rigorous assessment combining automated metrics and human evaluation by radiology interns supervised by experienced radiologists, demonstrating improvements in factual consistency, reduced omissions, and clinical relevance.
+
+
