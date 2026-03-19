@@ -1,0 +1,3383 @@
+input,output
+"<Medical_Report>
+        : KES
+Modality : MR Sex : M
+Age : 35Y Study : l-spine^GenX
+Reff. Dr. : Study Date : 04-10-2024
+MRI PELVIS WITH BILATERAL SI JOINTS
+Multiplanar imaging with T1 & T2 FSE, T2 FAT SAT and STIR. T1 Cor and STIR COR of bilateral SI joints also
+acquired.
+FINDINGS :
+Sunchondral bone marrow edema with erosions are seen along both sacral and iliac side of bilateral sacroiliac
+joints.
+Urinary bladder is well distended. No obvious intraluminal pathology.
+Prostate is normal in size.
+Rectoanal canal and bilateral ischio rectal fossa appears normal.
+No evidence of any pelvic free fluid.
+No significant pelvic lymphnodes seen.
+Sacrum, coccyx and visualised bones appear normal.
+Gluteal and visualised thigh muscles appears normal.
+Bilateral hip joints are normal.
+IMPRESSION :
+Subchondral bone marrow edema with erosions along bilateral sacroiliac joints- suggestive of
+bilateral acute sacroiliitis.
+MRI WHOLE SPINE SCREENING
+FINDINGS:
+Loss of lumbar lordosis.
+L3-L4 LEVEL: Disc desiccation with broad based posterocentral disc protrusion causing anterior thecal sac
+indentation. AP diameter of spinal canal: 7 mm.
+L4-L5 LEVEL: Disc desiccation with diffuse disc bulge with posterocentral disc protrusion causing anterior
+thecal sac indentation. Posterior outer annular tear of intervertebral disc. AP diameter of spinal canal: 7.5 mm.
+L5-S1 LEVEL: Broad based left paracentral disc bulge with posterior outer annular tear causing anterior thecal
+sac indentation. AP diameter of spinal canal: 9.2 mm.
+Loss of cervical lordosis.
+C4-C5, C5-C6 and C6-C7 LEVELS: Diffuse disc bulge causing anterior thecal sac indentation.
+The rest of intervertebral discs show normal height with no significant herniation.
+Vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+Spinal canal & cord appears normal.
+IMPRESSION :
+Loss of lumbar lordosis.
+L3-L4 LEVEL: Disc desiccation with broad based posterocentral disc protrusion causing
+anterior thecal sac indentation. AP diameter of spinal canal: 7 mm.
+L4-L5 LEVEL: Disc desiccation with diffuse disc bulge with posterocentral disc protrusion
+causing anterior thecal sac indentation. Posterior outer annular tear of intervertebral disc. AP
+diameter of spinal canal: 7.5 mm.
+L5-S1 LEVEL: Broad based left paracentral disc bulge with posterior outer annular tear
+causing anterior thecal sac indentation. AP diameter of spinal canal: 9.2 mm.
+Loss of cervical lordosis.
+C4-C5, C5-C6 and C6-C7 LEVELS: Diffuse disc bulge causing anterior thecal sac indentation.
+Date 04-10-2024 Time 19-15-22
+        </Medical_Report>
+
+        <Impression>
+        Bilateral acute sacroiliitis with subchondral bone marrow edema and erosions present in sacroiliac joints. In the lumbar spine, there is a loss of lumbar lordosis with disc desiccation and protrusions at L3-L4, L4-L5, and L5-S1, causing anterior thecal sac indentation. Annular tears noted at L4-L5 and L5-S1 levels. The cervical spine shows loss of cervical lordosis with diffuse disc bulges at C4-C5, C5-C6, and C6-C7 levels. No significant intraluminal pathology in the urinary bladder. Normal appearance of vertebral bodies, pedicles, laminae, spinous processes, sacrum, coccyx, gluteal, and visualized thigh muscles. No pelvic free fluid or significant lymph nodes identified.
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",3
+"<Medical_Report>
+        : 438245789
+Modality : CT Sex : F
+Age : 48Y Study : CT UROGRAM
+Reff. Dr. : Study Date : 03-08-2024
+CT UROGRAM
+CECT KUB with CT Urogram done with non-ionic IV contrast.
+FINDINGS :
+Two calculi measuring 5.5 mm and 3 mm are seen at lower and upper pole of right kidney respectively.
+Three calculi measuring 4 mm, 3 mm and 4 mm are seen at upper, mid and lower pole of left kidney
+respectively.
+Calculus measuring 5.8 mm is seen at right vesico-ureteric junction causing mild upstream right
+hydroureteronephrosis.
+Kidneys are normal in shape, size, position and shows normal enhancement & excretion pattern. Peri-nephric
+regions appear unremarkable bilaterally.
+Right kidney measures : 9 x 4.6 cm.
+Left kidney measures : 9.8 x 4.4 cm.
+Left ureter is normal in course & calibre.
+Urinary Bladder appears normal in shape, size, position and attenuation pattern. Lumen exhibits normal
+density. Walls are smooth in contour with normal attenuation No intra-luminal filling defects seen.
+Uterus and ovaries are not visualized (post-op).
+Visualized bowel loops appear normal in course & caliber.
+Visualized skeletal structures appear grossly normal.
+No pelvic adenopathy/free fluid noted.
+Note made of diffuse fatty infiltration of liver.
+Note made of fibroadenomas in bilateral breast, measuring 2.2 x 2.2 cm, partially calcified on right side and 2.3
+x 1.7 cm on left side.
+        </Medical_Report>
+
+        <Impression>
+        Two calculi measuring 5.5 mm and 3 mm at lower and upper pole of right kidney
+respectively.
+Three calculi measuring 4 mm, 3 mm and 4 mm at upper, mid and lower pole of left
+kidney respectively.
+Calculus measuring 5.8 mm at right vesico-ureteric junction causing mild upstream right
+hydroureteronephrosis.
+Other findings:
+Diffuse fatty infiltration of liver.
+Visualized section of thorax shows, well-defined mass in bilateral breasts, measuring 2.2
+x 2.2 cm, partially calcified on right side and 2.3 x 1.7 cm on left side. Advised USG Breasts
+correlation.
+Date 03-08-2024 Time 20-55-22
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : 320245585
+Modality : CT Sex : F
+Age : 58Y Study : HRCT THORAX
+Reff. Dr. : Study Date : 07-04-2024
+HRCT CHEST
+HRCT sections of chest were studied without contrast. Post processing MPR was done in coronal & sagittal
+mode.
+FINDINGS:
+Few linear atelectatic bands are noted in posterior segment of right upper lobe and inferior lingular segment of
+left upper lobe.
+Normal attenuation in bilateral lung fields.
+No focal nodule, bronchiectasis or interstitial thickening.
+Trachea, carina & major bronchi are normal.
+No mediastinal lymphadenopathy noted.
+No evidence of any pleural thickening or effusion.
+Mild degenerative changes of visualized spine.
+        </Medical_Report>
+
+        <Impression>
+        Few scattered linear atelectatic bands in bilateral upper lobes as described.
+Date 07-04-2024 Time 22-41-31
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : 401245898
+Modality : CT Sex : F
+Age : 33Y Study : NCCT BRAIN
+Reff. Dr. : Study Date : 27-06-2024
+NCCT BRAIN
+Serial axial sections of brain were studied.
+FINDINGS:
+Cerebral hemispheres show normal morphology and attenuation. No EDH / SDH/SAH.
+Ventricular system and cisterns are normal.
+Brainstem and cerebellum are normal.
+Sella and suprasellar region is normal.
+Skull vault is normal.
+Visualized paranasal sinuses and orbits show no significant abnormality.
+Deviated nasal septum with bony spur towards right.
+NG tube in right nasal cavity.
+        </Medical_Report>
+
+        <Impression>
+        Â· No significant intracranial abnormality detected.
+Date 27-06-2024 Time 19-13-37
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",0
+"<Medical_Report>
+        : RAG
+Modality : MR Sex : M
+Age : 70Y Study : l-spine^GenX
+Reff. Dr. : Study Date : 30-10-2024
+MRI L.S. SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials ; STIR, T2 FSE coronal & MR Myelography of the lumbar spine were studied. Whole
+spine screening also done.
+FINDINGS :
+Disc desiccation at all levels.
+L4-L5 LEVEL: Diffuse disc bulge with bilateral facet joints arthrosis and ligamentum flavum hypertrophy
+causing adjacent spinal canal stenosis. Anterior marginal osteophytes.
+L5-S1 LEVEL: Diffuse disc bulge causing anterior thecal sac indentation. Bilateral facet joints arthrosis.
+L2-L3 and L3-L4 LEVEL: Diffuse disc bulge causing anterior thecal sac indentation. Anterior bridging
+osteophytes.
+L1-L2 LEVEL: Mild diffuse disc bulge causing mild anterior thecal sac indentation.
+Rest of vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+AP Sagittal Canal Diameter mms :
+L1 â€“ 12.3 L1-L2 â€“
+11.9
+L2 â€“ 12.5 L2-L3 â€“
+11.1
+L3 â€“ 11 L3-L4 â€“
+11.1
+L4 â€“ 10.2 L4-L5 â€“ 7
+L5 â€“ 8.8 L5-S1 â€“ 7.9
+SI JOINTS:
+Bilateral sacroilliac joints appears normal.
+SCREENING OF CERVICAL & DORSAL SPINE :
+C3-C4, C4-C5, C5-C6 and C6-C7 LEVELS: Disc desiccation with posterocentral disc bulge with bilateral unco-
+vertebral joints arthrosis causing anterior thecal sac indentation. No obvious cord compression. Cord signal is
+normal. Small anterior marginal osteophytes.
+Anterior bridging osteophytes at multiple levels of dorsal spine.
+Rest of cervico-dorsal IV discs appears normal.
+Rest of cervico-dorsal vertebral bodies appears normal.
+Cervico-dorsal spinal canal & cord appears normal.
+        </Medical_Report>
+
+        <Impression>
+        Disc desiccation at all levels.
+L4-L5 LEVEL: Diffuse disc bulge with bilateral facet joints arthrosis and ligamentum flavum
+hypertrophy causing adjacent spinal canal stenosis. Anterior marginal osteophytes.
+L5-S1 LEVEL: Diffuse disc bulge causing anterior thecal sac indentation. Bilateral facet joints
+arthrosis.
+L2-L3 and L3-L4 LEVEL: Diffuse disc bulge causing anterior thecal sac indentation. Anterior
+bridging osteophytes.
+L1-L2 LEVEL: Mild diffuse disc bulge causing mild anterior thecal sac indentation.
+Date 30-10-2024 Time 20-10-08
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",3
+"<Medical_Report>
+        : AML
+Modality : MR Sex : M
+Age : 45Y Study : l-spine^GenX
+Reff. Dr. : Study Date : 16-10-2024
+MRI CERVICAL SPINE WITH DORSAL SPINE SCREENING
+T1, T2 - sagittal and axials; STIR, T2 FSE coronal & MR Myelography of the Cervical spine were studied.
+Dorsal spine screening also done.
+FINDINGS:
+Loss of cervical lordosis.
+C5-C6 LEVEL: Diffuse disc bulge with bilateral mild unco-vertebral joints arthrosis causing anterior thecal sac
+indentation. Small anterior marginal osteophytes.
+C6-C7 LEVEL: Right paracentral disc bulge causing mild anterior thecal sac indentation.
+C3-C4 and C4-C5 LEVELS: Mild diffuse disc bulge causing mild anterior thecal sac indentation.
+Rest of intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+Cervical spinal canal appears normal.
+Cervical cord is normal in morphology and MR signal intensity.
+The pre and paravertebral soft tissues appear normal.
+CV Junction appears normal.
+No evidence of any chiari malformation.
+AP diameter ..:
+C2-C3: 12.6 mm.
+C3-C4: 10.1 mm.
+C4-C5: 10.1 mm.
+C5-C6: 10.1 mm.
+C6-C7: 11.9 mm.
+SCREENING OF DORSAL SPINE:
+Dorsal IV discs appears normal.
+Dorsal vertebral bodies appears normal.
+Dorsal spinal canal & cord appears normal.
+        </Medical_Report>
+
+        <Impression>
+        Loss of cervical lordosis.
+C5-C6 LEVEL: Diffuse disc bulge with bilateral mild unco-vertebral joints arthrosis causing
+anterior thecal sac indentation. Small anterior marginal osteophytes.
+C6-C7 LEVEL: Right paracentral disc bulge causing mild anterior thecal sac indentation.
+C3-C4 and C4-C5 LEVELS: Mild diffuse disc bulge causing mild anterior thecal sac
+indentation.
+MRI L.S. SPINE
+T1, T2 - sagittal and axials ; STIR, T2 FSE coronal & MR Myelography of the lumbar spine were studied. Whole
+spine screening also done.
+FINDINGS :
+Loss of lumbar lordosis.
+L4-L5 LEVEL: Diffuse disc bulge with left foraminal disc bulge causing anterior thecal sac indentation and mild
+narrowing of left lateral recess. Left facet joint arthrosis.
+L3-L4 and L5-S1 LEVELS: Mild diffuse disc bulge causing mild anterior thecal sac indentation.
+The rest of intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+AP Sagittal Canal Diameter mms :
+L1 â€“ 16.3 L1-L2 â€“
+16.8
+L2 â€“ 15 L2-L3 â€“ 14
+L3 â€“ 12.7 L3-L4 â€“
+12.8
+L4 â€“ 13.6 L4-L5 â€“
+13.2
+L5 â€“ 12.8 L5-S1 â€“
+11.9
+SI JOINTS:
+Bilateral sacroilliac joints appears normal.
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : 475246069
+Modality : CT Sex : M
+Age : 38Y Study : HRCT THORAX
+Reff. Dr. : Study Date : 09-09-2024
+HRCT CHEST
+HRCT sections of chest were studied without contrast. Post processing MPR was done in coronal & sagittal
+mode.
+FINDINGS:
+Lung parenchyma appears normal in attenuation.
+No focal nodule, bronchiectasis or interstitial thickening.
+Trachea, carina & major bronchi are normal.
+No Mediastinal lymphadenopathy noted.
+Visualised bones are grossly normal.
+Note made of a nodule measuring 1.4 cm x 1 cm in right lobe of thyroid gland.
+        </Medical_Report>
+
+        <Impression>
+        No significant abnormality detected.
+Date 09-09-2024 Time 19-17-05
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : SAN
+Modality : MR Sex : M
+Age : 38Y Study : l-spine^GenX
+Reff. Dr. : Study Date : 30-04-2024
+MRI L.S. SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials ; STIR, T2 FSE coronal & MR Myelography of the lumbar spine were studied. Whole
+spine screening also done.
+FINDINGS :
+L5-S1 LEVEL: Disc desiccation with diffuse posterocentral disc bulge causing anterior thecal sac indentation.
+Posterior outer annular tear of intervertebral disc.
+Rest of the intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+AP Sagittal Canal Diameter mms :
+L1 â€“ 15.4 L1-L2 â€“
+15.8
+L2 â€“ 14.5 L2-L3 â€“
+14.1
+L3 â€“ 15.4 L3-L4 â€“ 15
+L4 â€“ 14.5 L4-L5 â€“
+13.2
+L5 â€“ 11.4 L5-S1 â€“
+11.4
+SI JOINTS:
+Bilateral sacroilliac joints appears normal.
+SCREENING OF CERVICAL & DORSAL SPINE :
+C5-C6 LEVEL: Posterior disc osteophyte complex causing effacement of anterior thecal sac. However, no
+obvious cord compression or altered intramedullary signal intensity.
+C4-C5, C6-C7 LEVELS: Mild posterior disc osteophyte complex causing anterior thecal sac indentation.
+Rest of Cervico-dorsal IV discs appears normal.
+Cervico-dorsal vertebral bodies appears normal.
+Cervico-dorsal spinal canal & cord appears normal.
+        </Medical_Report>
+
+        <Impression>
+        Mild degenerative changes of lumbar and cervical spine as described.
+Date 30-04-2024 Time 19-14-29
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : NIT
+Modality : MR Sex : F
+Age : 42Y Study : l-spine^GenX
+Reff. Dr. : Study Date : 24-04-2024
+MRI L.S. SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials ; STIR, T2 FSE coronal & MR Myelography of the lumbar
+spine were studied. Whole spine screening also done.
+FINDINGS :
+L3-L4, L4-L5 and L5-S1 LEVELS: Disc desiccation with mild posterocentral diffuse disc bulge
+causing minimal anterior thecal sac indentation.
+Rest of the levels appear normal.
+The intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and
+alignment.
+Facet joints appear normal.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+AP canal diameters are: L1-L2: 14.5 mm, L2-L3: 15.5 mm, L3-L4: 13.4 mm, L4: L5: 14.5 mm, L5-
+S1: 14 mm
+On screening of cervical and dorsal spine:
+Straightening of cervical spine.
+C4-C5 and C5-C6 LEVELS: Broad based postero-central disc protrusion causing effacement of
+anterior thecal sac. However, no obvious cord compression or altered intramedullary signal
+intensity.
+Rest of the levels appear normal.
+        </Medical_Report>
+
+        <Impression>
+        -
+Mild degenerative changes in lumbar and cervical spine as described.
+Date 24-04-2024 Time 18-35-18
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : NAL
+Modality : MR Sex : F
+Age : 39Y Study : pelvis^GenX
+Reff. Dr. : Study Date : 26-05-2024
+CEMRI WHOLE ABDOMEN AND PELVIS
+Multiecho T1 & T2 sequences in axial sagittal and coronal planes. Dynamic post-contrast vibe.
+FINDINGS:
+Uterus is bulky measuring 12 cm x 10.2 cm x 8.3 cm and is anteverted. Endometrial thickness is within normal
+limits. Multiple T2 hypointense fibroids are seen in both anterior and posterior myometrium, largest measuring
+6.4 x 6.3 x 7.6 cm (AP x TR x CC) in anterior myometrium. The largest fibroid involves the anterior myometrium
+and shows submucosal extension of >50% into the endometrial cavity. The submucosal component of the fibroid
+measures 4.4 cm x 2.2 cm (AP x TR). Few other smaller intramural fibroids of average size 2 cm x 2 cm are seen.
+A T1/T2 hyperintense cyst measuring 7.3 cm x 6.0 cm is seen in right adnexa, abutting the right ovary. The cyst
+shows thin internal septation. No obvious fat component/ solid portion/ papillary projections noted. No obvious
+enhancement of cyst is seen.
+Right ovary measures 3 cm x 1.4 cm. Left ovary measures 2 cm x 1.8 cm.
+Mild free fluid in pouch of douglas.
+Liver is normal in size, shape and signal intensity with no evidence of any focal lesion. The intrahepatic biliary
+radicals and common duct are not dilated.
+The gall bladder is well distended and appears normal.
+CBD appears normal in course and caliber.
+The pancreas is normal with no evidence of any focal lesion. The peripancreatic fat planes and retroperitoneum
+appear normal.
+The spleen is normal in size, shape and signal intensity.
+Both kidneys are normal in size, shape and outline. Pelvicalyceal systems and ureters are normal in caliber.
+Both the adrenals are normal in size, shape and signal intensity pattern. No evidence of any adrenal mass lesion.
+Urinary bladder is normal in position, outline with clear lumen and smooth thin walls.
+There is no evidence of abdominal lymphadenopathy. Major abdominal blood vessels are normal.
+Visualised bones appear grossly normal.
+IMPRESSION :
+Bulky uterus with multiple intramural and one submucosal fibroid as described.
+Hemorrhagic cyst with thin internal septation in right adnexa, abutting the right ovary, likely
+benign
+Date 26-05-2024 Time 20-16-38
+        </Medical_Report>
+
+        <Impression>
+        Bulky uterus with multiple intramural fibroids and one submucosal fibroid in anterior myometrium. Hemorrhagic cyst with thin internal septation in right adnexa, abutting the right ovary, likely benign. Mild free fluid in pouch of Douglas.
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : GOP
+Modality : MR Sex : M
+Age : 50Y Study : c-spine^GenX
+Reff. Dr. : Study Date : 22-08-2024
+CEMRI CERVICAL SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials; STIR, T2 FSE coronal & MR Myelography of the Cervical spine were studied.
+Whole spine screening also done. I.V contrast study also done.
+FINDINGS:
+Long segment syrinx is seen extending from C2 vertebral level to D5-D6 intervertebral disc level. No obvious
+enhancement seen on post-contrast study.
+C4-C5, C5-C6 and C6-C7 LEVELS: Disc desiccation with posterior disc osteophyte complex and bilateral
+uncovertebral joints arthrosis causing anterior thecal sac indentation.
+Rest of intervertebral discs show no evidence of disc prolapse.
+Vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The pre and paravertebral soft tissues appear normal.
+CV Junction appears normal.
+No evidence of any chiari malformation.
+AP diameter :
+C2-C3: 14.8 mm.
+C3-C4: 13.3 mm.
+C4-C5: 13 mm.
+C5-C6: 10.8 mm.
+C6-C7: 10.8 mm.
+SCREENING OF DORSO-LUMBAR SPINE:
+L5-S1 LEVEL: Disc desiccation with diffuse posterior disc bulge causing anterior thecal sac indentation.
+L3-L4 LEVEL: Disc desiccation with mild posterior disc bulge causing minimal anterior thecal sac indentation.
+Hemangioma in D8 vertebral body.
+Rest of dorso-lumbar IV discs appears normal.
+Dorso-lumbar vertebral bodies appears normal.
+        </Medical_Report>
+
+        <Impression>
+        Long segment syrinx extending from C2 vertebral level to D5-D6 intervertebral disc level.
+Other findings:
+C4-C5, C5-C6 and C6-C7 LEVELS: Disc desiccation with posterior disc osteophyte complex and
+bilateral uncovertebral joints arthrosis causing anterior thecal sac indentation.
+L5-S1 LEVEL: Disc desiccation with diffuse posterior disc bulge causing anterior thecal sac
+indentation.
+L3-L4 LEVEL: Disc desiccation with mild posterior disc bulge causing minimal anterior thecal
+sac indentation.
+Date 22-08-2024 Time 19-38-31
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",3
+"<Medical_Report>
+        : VIR
+Modality : MR Sex : M
+Age : 56Y Study : l-spine^GenX
+Reff. Dr. : Study Date : 11-08-2024
+MRI L.S. SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials ; STIR, T2 FSE coronal & MR Myelography of the lumbar spine were studied. Whole
+spine screening also done.
+FINDINGS :
+L3-L4 LEVEL: Disc desiccation with broad based posterocentral disc protrusion causing anterior thecal sac
+indentation. There is mild caudal migration of disc material with maintained contact with the parent disc. Few
+small anterior marginal osteophytes.
+L4-L5 LEVEL: Disc desiccation with diffuse posterior disc bulge causing mild anterior thecal sac indentation.
+Left facet joint arthrosis. Few small anterior marginal osteophytes.
+L5-S1 LEVEL: Bilateral facet joints arthrosis.
+Rest of the intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+AP Sagittal Canal Diameter mms :
+L1 – 16.3 L1-L2 – 15
+L2 – 15.4 L2-L3 –
+14.5
+L3 – 12.9 L3-L4 – 11
+L4 – 13.2 L4-L5 –
+12.3
+L5 – 15.4 L5-S1 –
+16.5
+SI JOINTS:
+Bilateral sacroilliac joints appears normal.
+SCREENING OF CERVICAL & DORSAL SPINE :
+Loss of cervical lordosis.
+C3-C4, C4-C5 and C5-C6 LEVELS: Disc desiccation with posterior disc osteophyte complex causing anterior
+thecal sac indentation.
+Rest of cervico-dorsal IV discs appears normal.
+Cervico-dorsal vertebral bodies appears normal.
+Cervico-dorsal spinal canal & cord appears normal.
+        </Medical_Report>
+
+        <Impression>
+        L3-L4 LEVEL: Disc desiccation with broad based posterocentral disc protrusion causing
+anterior thecal sac indentation. There is mild caudal migration of disc material. Few small
+anterior marginal osteophytes.
+L4-L5 LEVEL: Disc desiccation with diffuse posterior disc bulge causing mild anterior thecal
+sac indentation. Left facet joint arthrosis. Few small anterior marginal osteophytes.
+L5-S1 LEVEL: Bilateral facet joints arthrosis.
+Loss of cervical lordosis.
+C3-C4, C4-C5 and C5-C6 LEVELS: Disc desiccation with posterior disc osteophyte complex
+causing anterior thecal sac indentation.
+Date 11-08-2024 Time 16-06-12
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : 441246002
+Modality : CT Sex : M
+Age : 35Y Study : CECT ABDOMEN
+Reff. Dr. : Study Date : 06-08-2024
+CECT ABDOMEN AND PELVIS
+Helical MDCT study of abdomen and pelvis done with IV contrast.
+FINDINGS :
+A defect of size 1.8 x 1.3 cm is seen in ventral abdominal wall at the level of umbilicus with herniation of
+omentum as content. Hernial sac measures 2 x 1.4 cm. No obvious evidence of obstruction or strangulation.
+Few prominent ileo-colic lymph nodes, largest measuring 8 mm in short axis. Appendix measures 7 mm and is
+fluid filled. However, no obvious periappendiceal inflammation.
+Liver is enlarged (16 cm), normal in density and morphology. IHBR not dilated. No SOL seen.
+Splenoportal vein is normal.
+Spleen is normal in size (8 cm) and density.
+GB is contracted. (Calculi better visulised in Ultrasound)
+CBD is normal.
+Pancreas normal in size and density. No calculi or ductal dilatation.
+Stomach, duodenum, small and large bowel are normal.
+Bilateral kidneys are normal in size, shape. No calculus seen. Pelvicalyceal system is normal. Perinephric region
+is normal.
+Ureters are normal.
+Adrenal appears normal.
+UB shows normal wall and lumen.
+Prostate appears normal in morphology and density.
+Retroperitoneum is normal.
+No free fluid noted.
+Aorta, IVC and para-aortic regions are normal. No para-aortic lymphnodes seen.
+Visualised bones are normal.
+        </Medical_Report>
+
+        <Impression>
+        A defect of size 1.8 x 1.3 cm in ventral abdominal wall at the level of umbilicus with herniation
+of omentum as content- suggestive of umbilical hernia. Hernial sac measures 2 x 1.4 cm. No
+obvious radiological evidence of obstruction or strangulation.
+Few prominent ileo-colic lymph nodes, largest measuring 8 mm in short axis. Appendix
+measures 7 mm and is fluid filled. However, no obvious periappendiceal inflammation.
+Advised clinical correlation.
+Date 07-08-2024 Time 07-23-24
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : KRI
+Modality : MR Sex : M
+Age : 33Y Study : l-spine^GenX
+Reff. Dr. : Study Date : 14-11-2024
+MRI L.S. SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials ; STIR, T2 FSE coronal & MR Myelography of the lumbar spine were studied. Whole
+spine screening also done.
+FINDINGS :
+Loss of lumbar lordosis.
+L4-L5 LEVEL: Disc desiccation with right paracentral focal disc protrusion causing anterior thecal sac
+indentation with narrowing of right lateral recess. Right facet joint arthrosis.
+The rest of intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Rest of vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+AP Sagittal Canal Diameter mms :
+L1 â€“ 17 L1-L2 â€“
+13.6
+L2 â€“ 12.7 L2-L3 â€“
+12.3
+L3 â€“ 13.6 L3-L4 â€“
+12.5
+L4 â€“ 12 L4-L5 â€“ 7
+L5 â€“ 10.5 L5-S1 â€“
+11.4
+SI JOINTS:
+Bilateral sacroilliac joints appears normal.
+SCREENING OF CERVICAL & DORSAL SPINE :
+Loss of cervical lordosis.
+C4-C5, C5-C6 and C6-C7 LEVELS: Disc desiccation with mild diffuse disc bulge causing anterior thecal sac
+indentation. No obvious cord compression. Cord signal is normal.
+Rest of cervico-dorsal IV discs appears normal.
+Cervico-dorsal vertebral bodies appears normal.
+Cervico-dorsal spinal canal & cord appears normal.
+        </Medical_Report>
+
+        <Impression>
+        Loss of lumbar lordosis.
+L4-L5 LEVEL: Disc desiccation with right paracentral focal disc protrusion causing anterior
+thecal sac indentation with narrowing of right lateral recess. Right facet joint arthrosis.
+Date 14-11-2024 Time 19-30-25
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : SAN
+Modality : MR Sex : F
+Age : 58Y Study : l-spine^GenX
+Reff. Dr. : Study Date : 21-10-2024
+MRI L.S. SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials ; STIR, T2 FSE coronal & MR Myelography of the lumbar spine were studied. Whole
+spine screening also done.
+FINDINGS :
+Disc desiccation at all levels.
+L2-L3 LEVEL: Diffuse disc bulge causing mild anterior thecal sac indentation. Mild endplate modic type 2
+changes.
+L3-L4 LEVEL: Diffuse disc bulge causing mild anterior thecal sac indentation. Ligamentum flavum hypertrophy
+with bilateral facet joints arthrosis. Schmorl's node at inferior endplate of L3.
+L4-L5 LEVEL: Diffuse disc bulge causing mild anterior thecal sac indentation. Ligamentum flavum hypertrophy
+with bilateral facet joints arthrosis.
+L5-S1 LEVEL: Bilateral facet joints arthrosis.
+The rest of intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Rest of vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+AP Sagittal Canal Diameter mms :
+L1 â€“ 15.4 L1-L2 â€“ 14
+L2 â€“ 13.6 L2-L3 â€“
+11.6
+L3 â€“ 14 L3-L4 â€“
+11.5
+L4 â€“ 13.5 L4-L5 â€“
+11.4
+L5 â€“ 14.5 L5-S1 â€“ 14
+SI JOINTS:
+Bilateral sacroilliac joints appears normal.
+SCREENING OF CERVICAL & DORSAL SPINE :
+C4-C5 and C5-C6 LEVELS: Disc desiccation with mild diffuse disc bulge causing mild anterior thecal sac
+indentation. No evidence of cord or nerve root compression. Cord signal is normal.
+Rest of cervico-dorsal IV discs appears normal.
+Cervico-dorsal vertebral bodies appears normal.
+Cervico-dorsal spinal canal & cord appears normal.
+        </Medical_Report>
+
+        <Impression>
+        Disc desiccation at all levels.
+L2-L3 LEVEL: Diffuse disc bulge causing mild anterior thecal sac indentation. Mild endplate
+modic type 2 changes.
+L3-L4 LEVEL: Diffuse disc bulge causing mild anterior thecal sac indentation. Ligamentum
+flavum hypertrophy with bilateral facet joints arthrosis. Schmorl's node at inferior endplate of
+L3.
+L4-L5 LEVEL: Diffuse disc bulge causing mild anterior thecal sac indentation. Ligamentum
+flavum hypertrophy with bilateral facet joints arthrosis.
+L5-S1 LEVEL: Bilateral facet joints arthrosis.
+Date 22-10-2024 Time 07-27-19
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : ANJ
+Modality : MR Sex : F
+Age : 51Y Study : l-spine^GenX
+Reff. Dr. : Study Date : 12-09-2024
+MRI L.S. SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials ; STIR, T2 FSE coronal & MR Myelography of the lumbar spine were studied. Whole
+spine screening also done.
+FINDINGS :
+Counting of vertebra done from below assuming the last vertebra with well-formed intervertebral disc below it
+to be L5.
+Loss of lumbar lordosis.
+L4-L5 LEVEL: Disc desiccation with diffuse posterior disc bulge causing anterior thecal sac indentation.
+L5-S1 LEVEL: The intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+AP Sagittal Canal Diameter mms :
+L1 â€“ 15.5 L1-L2 â€“ 15
+L2 â€“ 15.8 L2-L3 â€“
+14.1
+L3 â€“ 13.2 L3-L4 â€“
+12.3
+L4 â€“ 12.8 L4-L5 â€“
+12.2
+L5 â€“ 12.3 L5-S1 â€“
+11.4
+SI JOINTS:
+Bilateral sacroilliac joints appears normal.
+SCREENING OF CERVICAL & DORSAL SPINE :
+Loss of cervical lordosis.
+C2-C3, C3-C4, C4-C5 and C5-C6 LEVELS: Disc desiccation with mild posterior disc bulge causing anterior
+thecal sac indentation.
+Rest of dorsal IV discs appears normal.
+Cervico-dorsal vertebral bodies appears normal.
+Cervico-dorsal spinal canal & cord appears normal.
+        </Medical_Report>
+
+        <Impression>
+        Loss of lumbar lordosis.
+L4-L5 LEVEL: Disc desiccation with diffuse posterior disc bulge causing anterior thecal sac
+indentation.
+L5-S1 LEVEL: The intervertebral discs show normal signal intensity and no evidence of disc
+prolapse.
+Loss of cervical lordosis.
+C2-C3, C3-C4, C4-C5 and C5-C6 LEVELS: Disc desiccation with mild posterior disc bulge
+causing anterior thecal sac indentation. No cord compression. Cord signal is normal.
+Date 12-09-2024 Time 17-56-32
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : SOU
+Modality : MR Sex : M
+Age : 39Y Study : knee^Genex
+Reff. Dr. : Study Date : 30-06-2024
+MRI KNEE JOINT
+T1 FSE, T2 FSE, PD FAT SAT, T2 GRE multiplanar imaging.
+FINDINGS:
+Mild knee joint effusion extending to suprapatellar recess.
+Intrasubstance myxoid degeneration of posterior horn of lateral meniscus.
+Lower end of femur, patella and their articulating cartilage appears normal.
+Quadriceps and patellar tendons show normal signals.
+Supra, infra and retro patellar areas show normal signals.
+Anterior and posterior cruciate ligaments are normal.
+Lateral collateral ligament signals are normal.
+Medial collateral ligament shows normal signals.
+Medial meniscus appears normal.
+The muscles & tendons surrounding the joint appear normal.
+        </Medical_Report>
+
+        <Impression>
+        Mild knee joint effusion extending to suprapatellar recess.
+Intrasubstance myxoid degeneration of posterior horn of lateral meniscus.
+Date 30-06-2024 Time 15-26-06
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : 465225799
+Modality : CT Sex : F
+Age : 66Y Study : CECT ABD
+Reff. Dr. : Study Date : 09-11-2024
+CECT ABDOMEN AND PELVIS
+Helical MDCT study of abdomen and pelvis done with IV contrast.
+FINDINGS:
+A well circumscribed hypoenhancing lesion measuring 7.8 x 7.6 cm x 8.4 cm (AP X TR X CC) is seen in right
+suprarenal region. The lesion is separate from the right adrenal gland and is compressing the upper pole of right
+kidney. Tiny calcific focus is seen within the lesion.
+Another similar lesion measuring 6 x 6.6 x 9.6 cm (AP X TR X CC) is seen below inferior pole of right kidney,
+compressing the lateral border of right psoas muscle.
+Another lesion measuring 3.7 x 2 cm (AP X TR) is seen within the subcutaneous plane of left upper anterior
+abdominal wall at D11-D12 vertebral level.
+All the lesions show thin vessels coursing within them and show progressive enhancement on delayed phases.
+CBD stent in situ with minimal bilobar IHBR dilatation.
+GB is not visualized (post-op).
+Liver is normal in size (13.4 cm), density and morphology. A tiny simple cyst measuring 4 mm in segment IV.
+Splenoportal vein is normal.
+Spleen is normal in size (7.2 cm ) and density.
+Pancreas normal in size and density. No calculi or ductal dilatation.
+Stomach, duodenum, small and large bowel are normal.
+Bilateral kidneys are normal in size, shape. No calculus seen. Pelvicalyceal system is normal. Perinephric region
+is normal.
+Ureters are normal.
+Adrenal appears normal.
+UB shows normal wall and lumen.
+Uterus is retroverted. Ovaries are normal.
+No free fluid noted.
+Aorta, IVC and para-aortic region are normal. No para-aortic lymphnodes seen.
+Rest of visualized abdominal wall are normal.
+Note made of few subchondral erosions along the articular surface of left femur head and acetabulum.
+Reduced anterior height of D11 vertebral body - s/o old wedge compression fracture. Superior endplate
+Schmorl's node at D11.
+        </Medical_Report>
+
+        <Impression>
+        A well circumscribed hypoenhancing lesion measuring 7.8 x 7.6 cm x 8.4 cm (AP X TR X
+CC) in right suprarenal region. The lesion is separate from the right adrenal gland and is
+compressing the upper pole of right kidney. A tiny calcific focus within the lesion.
+Another similar lesion measuring 6 x 6.6 x 9.6 cm (AP X TR X CC) below inferior pole of
+right kidney, compressing the lateral border of right psoas muscle.
+Another similar lesion measuring 3.7 x 2 cm (AP X TR) within the subcutaneous plane of
+left upper anterior abdominal wall at D11-D12 vertebral level.
+All the lesions show thin vessels coursing within them and show progressive enhancement
+on delayed phases.
+Features are likely in favour of benign soft tissue tumor of probable fibrous origin ?
+fibromatosis. Adv HP evaluation. As compared to previous CT scan dated 31.09.2022, all three
+lesions remain stable in size.
+Other findings:
+CBD stent in situ with minimal bilobar intrahepatic bilary radicles dilatation.
+Date 09-11-2024 Time 19-40-10
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : KAB
+Modality : MR Sex : F
+Age : 48Y Study : l-spine^GenX
+Reff. Dr. : Study Date : 21-10-2024
+MRI DORSO-LUMBAR SPINE WITH CERVICAL SPINE SCREENING
+T1, T2 - sagittal and axials; STIR, T2 FSE coronal & MR Myelography of the Dorso-lumbar spine were studied.
+Cervical spine screening was also done.
+FINDINGS:
+Bilateral laminectomy with trans-pedicular screws in situ within D9 and D11 vertebra.
+There is medial breach of left transpedicular screw in D9 vertebra by more than 2 mm causing spinal canal
+stenosis with mild abutment of spinal cord. AP diameter of spinal canal at D9 level is 7.5 mm
+D1-D2, D3-D4, D5-D6, D6-D7, D7-D8, D8-D9, D9-D10 and D10-D11 LEVELS: Disc desiccation with posterior
+disc osteophyte complex causing anterior thecal sac indentation.
+L2-L3, L3-L4, L4-L5 and L5-S1 LEVELS: Disc desiccation with diffuse disc bulge causing anterior thecal sac
+indentation. Bilateral facet joints arthrosis. Mild ligamentum flavum hypertrophy.
+Rest of vertebral bodies, pedicles, laminae and spinous processes show normal morphology and alignment.
+Rest of dorsal spinal canal and cord appears normal.
+The conus medullaris and nerve roots of cauda equina signals appear normal. The subarchnoid CSF space shows
+normal signal.
+The pre and paravertebral soft tissues appear normal.
+Bilateral sacroiliac joints appear normal.
+SCREENING OF CERVICAL SPINE:
+Loss of cervical lordosis.
+C3-C4, C4-C5, C5-C6 and C6-C7 LEVELS: Disc desiccation with diffuse disc bulge causing anterior thecal sac
+indentation. However, no evidence of cord compression. Cord signal is normal.
+Cervical vertebral bodies appear normal.
+Cervical spinal canal & cord appears normal.
+        </Medical_Report>
+
+        <Impression>
+        Bilateral laminectomy with trans-pedicular screws in situ within D9 and D11 vertebra.
+There is medial breach of left transpedicular screw in D9 vertebra by more than 2 mm causing
+spinal canal stenosis with mild abutment of spinal cord. AP diameter of spinal canal at D9
+level is 7.5 mm
+D1-D2, D3-D4, D5-D6, D6-D7, D7-D8, D8-D9, D9-D10 and D10-D11 LEVELS: Disc desiccation with
+posterior disc osteophyte complex causing anterior thecal sac indentation.
+L2-L3, L3-L4, L4-L5 and L5-S1 LEVELS: Disc desiccation with diffuse disc bulge causing
+anterior thecal sac indentation. Bilateral facet joints arthrosis. Mild ligamentum flavum
+hypertrophy.
+Date 21-10-2024 Time 19-18-07
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",3
+"<Medical_Report>
+        : 418245684
+Modality : CT Sex : F
+Age : 36Y Study : NCCT KUB
+Reff. Dr. : Study Date : 14-07-2024
+NCCT KUB
+Plain MDCT study of KUB region done with MPR.
+FINDINGS:
+A large subserosal fibroid measuring approx 10 cm x 12 cm x 12 cm (AP X TR X CC) is seen arising from the
+posterior myometrium. The fibroid is displacing the endometrium anteriorly. The fibroid is compressing
+bilateral distal ureters causing bilateral mild upstream hydroureteronephrosis (left >right).
+Bilateral kidneys are normal in size, position and density. No calculi or hydronephrosis. Bilateral perinephric
+region is normal. Pelvicalyceal system normal on both side.
+Right kidney measures : 10 x 5.2 cm.
+Left kidneys measures : 10.2 x 5 m.
+Urinary bladder is distended and normal. Walls and lumens are normal.
+Prostate and seminal vesicles are normal in size and density.
+Visualised bowel loops are normal.
+No free fluid seen.
+Visualised bones and abdominal wall are normal.
+        </Medical_Report>
+
+        <Impression>
+        A large subserosal fibroid measuring approx 10 cm x 12 cm x 12 cm (AP X TR X CC) arising
+from the posterior myometrium. The fibroid is displacing the endometrium anteriorly. The
+fibroid is compressing bilateral distal ureters causing bilateral mild upstream
+hydroureteronephrosis (left >right).
+Advised contrast study/ USG pelvis correlation.
+Date 14-07-2024 Time 17-55-14
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : 469246082
+Modality : CT Sex : M
+Age : 68Y Study : NCCT BRAIN
+Reff. Dr. : Study Date : 03-09-2024
+NCCT BRAIN
+Serial axial sections of brain were studied.
+FINDINGS:
+Generalized prominence of sulci, cisterns and ventricles.
+Rest of cerebral hemispheres show normal morphology and attenuation. No EDH / SDH/SAH.
+Ventricular system and cisterns are normal.
+Brainstem and cerebellum are normal.
+Sella and suprasellar region is normal.
+Skull vault is normal.
+Mucosal thickening in bilateral maxillary, ethmoid, sphenoid and frontal sinuses - suggestive of sinusitis.
+Visualized orbits show no significant abnormality.
+        </Medical_Report>
+
+        <Impression>
+        Age related generalized cerebral atrophy.
+Mucosal thickening in bilateral maxillary, ethmoid, sphenoid and frontal sinuses -
+suggestive of sinusitis.
+Date 03-09-2024 Time 20-43-27
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : 527245696
+Modality : CT Sex : M
+Age : 58Y Study : NCCT KUB
+Reff. Dr. : Study Date : 31-10-2024
+NCCT KUB
+Plain MDCT study of KUB region done with MPR.
+FINDINGS:
+Well defined exophytic Bosniak 1 cyst measuring 4.4 cm x 4.4 cm is seen arising from lower pole of right kidney.
+Another small exophytic cyst measuring 2 cm x 1.8 cm at midpole of right kidney.
+Another exophytic Bosniak 1 cyst measuring 7.6 cm x 7.2 cm is seen in lower pole of left kidney extending to left
+parapelvic region.
+Bilateral kidneys are normal in size, position and density. No calculi or hydronephrosis. Bilateral perinephric
+region is normal. Pelvicalyceal system normal on both side.
+Right kidney measures : 9.9 x 5.4 cm.
+Left kidneys measures : 9 x 5 cm.
+Ureters are normal.
+Urinary bladder is distended and normal. Walls and lumens are normal.
+Prostate measures 3.3 cm x 4.8 cm x 3.6 cm (vol: 28 cc) with prostate parenchymal calcification. Both seminal
+vesicles are normal in size and density.
+Visualised bowel loops are normal.
+No free fluid seen.
+Visualised bones and abdominal wall are normal.
+        </Medical_Report>
+
+        <Impression>
+        Well defined exophytic Bosniak 1 cyst measuring 4.4 cm x 4.4 cm arising from lower pole
+of right kidney. Another small exophytic cyst measuring 2 cm x 1.8 cm at midpole of right
+kidney.
+Another exophytic Bosniak 1 cyst measuring 7.6 cm x 7.2 cm in lower pole of left kidney
+extending to left parapelvic region.
+Borderline prostatomegaly with mild prostate parenchymal calcification.
+Date 01-11-2024 Time 07-29-11
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : 469246089
+Modality : CT Sex : M
+Age : 84Y Study : Head
+Reff. Dr. : Study Date : 03-09-2024
+NCCT BRAIN
+Serial axial sections of brain were studied.
+FINDINGS:
+Cerebral hemispheres show normal morphology and attenuation. No EDH / SDH/SAH.
+Ventricular system and cisterns are normal.
+Brainstem and cerebellum are normal.
+Sella and suprasellar region is normal.
+Skull vault is normal.
+Visualized paranasal sinuses and orbits show no significant abnormality.
+Visualized section of cervical spine shows mild erosions in the tip of odontoid process with mild retrodontoid
+hyperdense soft tissue thickening, likely degenerative.
+        </Medical_Report>
+
+        <Impression>
+        Â· No significant intracranial abnormality detected.
+Date 03-09-2024 Time 20-13-39
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",0
+"<Medical_Report>
+        : RAJ
+Modality : MR Sex : M
+Age : 40Y Study : l-spine^GenX
+Reff. Dr. : Study Date : 11-11-2024
+MRI L.S. SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials ; STIR, T2 FSE coronal & MR Myelography of the lumbar spine were studied. Whole
+spine screening also done.
+FINDINGS :
+Anterior marginal osteophytes at L3-L4 and L4-L5 levels.
+The intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Rest of vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+AP Sagittal Canal Diameter mms :
+L1 â€“ 15.4 L1-L2 â€“
+15.8
+L2 â€“ 14 L2-L3 â€“
+13.6
+L3 â€“ 15.4 L3-L4 â€“
+13.6
+L4 â€“ 16.3 L4-L5 â€“
+14.5
+L5 â€“ 16.7 L5-S1 â€“
+15.8
+SI JOINTS:
+Bilateral sacroilliac joints appears normal.
+SCREENING OF CERVICAL & DORSAL SPINE :
+C4-C5 LEVEL: Mild diffuse disc bulge causing mild anterior thecal sac indentation. No obvious evidence of cord
+compression.
+Buckling of ligamentum flavum at D10-D11 level.
+Small anterior marginal osteophytes at multiple levels of dorsal spine.
+Rest of cervico-dorsal IV discs appears normal.
+Rest of cervico-dorsal vertebral bodies appears normal.
+Cervico-dorsal spinal canal & cord appears normal.
+        </Medical_Report>
+
+        <Impression>
+        Mild degenerative changes of lumbar spine as described.
+Date 12-11-2024 Time 07-25-39
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : PRA
+Modality : MR Sex : M
+Age : 67Y Study : head^GenX
+Reff. Dr. : Study Date : 17-11-2024
+MRI BRAIN
+T1, T2, FLAIR, DWI, SWI - axials; 3D T1 - FSE sagittal.
+FINDINGS:
+Prominence of bilateral lateral and third ventricles, out of proportion to the degree of sulcal atrophy with
+crowding of sulci at vertex and widening of bilateral sylvian fissures.
+Evan;s index: 0.32
+Callosal angle: 116 degrees.
+Few discrete foci of T2/ FLAIR hyperintensity in bilateral corona radiata.
+Rest of cerebral parenchyma shows normal morphology and signal intensity.
+Bilateral basal ganglia and thalamus appears normal.
+The sellar and parasellar regions are normal.
+The brainstem and cerebellum are normal.
+Cisterns & subarachnoid spaces shows normal CSF signal.
+Bilateral IAM & 7th & 8th nerve appears normal.
+Intracranial vessels and dural venous sinuses shows normal flow signal.
+The C.V. junction is normal.
+Visualised paranasal sinuses & orbits are normal.
+        </Medical_Report>
+
+        <Impression>
+        Prominence of bilateral lateral and third ventricles, out of proportion to the degree of
+sulcal atrophy with crowding of sulci at vertex and widening of bilateral sylvian fissures-
+Possibility of disproportionately enlarged subarachnoid space hyrocephalus (DESH).
+Advised clinical correlation.
+Few discrete foci of T2/ FLAIR hyperintensity in bilateral corona radiata -suggestive of
+mild chronic small vessel ischemic changes.
+MRI L.S. SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials ; STIR, T2 FSE coronal & MR Myelography of the lumbar spine were studied. Whole
+spine screening also done.
+FINDINGS :
+Disc desiccation at all levels.
+L4-L5 LEVEL: Diffuse disc bulge causing anterior thecal sac indentation. Ligamentum flavum hypertrophy with
+bilateral facet joints arthrosis. Small anterior marginal osteophytes.
+L5-S1 LEVEL: Posterocentral disc bulge causing anterior thecal sac indentation. Mild ligamentum flavum
+hypertrophy with bilateral facet joints arthrosis.
+L3-L4 LEVEL: Mild diffuse disc bulge causing mild anterior thecal sac indentation. Small anterior marginal
+osteophytes.
+The rest of intervertebral discs show no evidence of disc prolapse.
+Rest of vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+AP Sagittal Canal Diameter mms :
+L1 â€“ 15 L1-L2 â€“
+14.5
+L2 â€“ 13.3 L2-L3 â€“
+12.3
+L3 â€“ 12 L3-L4 â€“ 11
+L4 â€“ 11 L4-L5 â€“ 9.2
+L5 â€“ 10.6 L5-S1 â€“ 9.7
+SI JOINTS:
+Bilateral sacroilliac joints appears normal.
+SCREENING OF CERVICAL & DORSAL SPINE :
+C3-C4, C4-C5 and C5-C6 LEVELS: Disc desiccation with posterior disc osteophyte complex causing anterior
+thecal sac indentation. No obvious cord compression. Cord signal is normal.
+Rest of cervico-dorsal IV discs appears normal.
+Rest of cervico-dorsal vertebral bodies appears normal.
+Cervico-dorsal spinal canal & cord appears normal.
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : 5420.777146533
+Modality : MR Sex : F
+Age : 43Y Study :
+Reff. Dr. : Study Date : 16-09-2024
+MRI L.S. SPINE
+T1, T2 - sagittal and axials ; STIR, T2 FSE coronal of the lumbar spine were studied.
+FINDINGS :
+L4-L5 LEVEL: Disc desiccation with posterocentral disc bulge causing anterior thecal sac indentation. Posterior
+outer annular tear. Mild ligamentum flavum hypertrophy.
+L5-S1 LEVEL: Disc desiccation with diffuse disc bulge causing anterior thecal sac indentation. Posterior outer
+annular tear. Ligamentum flavum hypertrophy with mild bilateral facet joints arthrosis.
+The rest of intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+AP Sagittal Canal Diameter mms :
+L1 â€“ 12.5 L1-L2 â€“ 12
+L2 â€“ 11.2 L2-L3 â€“ 12
+L3 â€“ 11.5 L3-L4 â€“
+13.5
+L4 â€“ 13 L4-L5 â€“
+11.1
+L5 â€“ 11.1 L5-S1 â€“
+11.5
+SI JOINTS:
+Fatty metaplasia along bilateral sacroiliac joints. Otherwise, bilateral sacroilliac joints appears normal.
+        </Medical_Report>
+
+        <Impression>
+        L4-L5 LEVEL: Disc desiccation with posterocentral disc bulge causing anterior thecal sac
+indentation. Posterior outer annular tear. Mild ligamentum flavum hypertrophy.
+L5-S1 LEVEL: Disc desiccation with diffuse disc bulge causing anterior thecal sac indentation.
+Posterior outer annular tear.Ligamentum flavum hypertrophy with mild bilateral facet joints
+arthrosis.
+Date 17-09-2024 Time 07-27-09
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : RAG
+Modality : MR Sex : M
+Age : 65Y Study : head^GenX
+Reff. Dr. : Study Date : 31-03-2024
+MRI BRAIN
+T1, T2, FLAIR, DWI, SWI - AXIALS ; 3D T1 â€“ SAGITTAL.
+FINDINGS -
+Cerebral parenchyma shows normal morphology and signal intensity. No evidence of
+any focal or diffuse lesion.
+Bilateral basal ganglia and thalamus appears normal.
+The sellar and parasellar regions are normal.
+The brainstem and cerebellum are normal.
+Ventricular system is normal.
+Cisterns & subarachnoid spaces shows normal CSF signal.
+Bilateral IAM & 7th & 8th nerve appears normal.
+The C.V. junction is normal.
+Bilateral orbits are normal.
+Note made of polyp in left maxillary sinus.
+T2 hyperintense secretions within bilateral ethmoid sinus- s/o sinusitis
+IMPRESSION :-
+No significant abnormality noted .
+Date 31-03-2024 Time 11-32-42
+        </Medical_Report>
+
+        <Impression>
+        No significant abnormality in cerebral parenchyma, basal ganglia, or thalamus. Sinusitis indicated by T2 hyperintense secretions in bilateral ethmoid sinus. Polyp in left maxillary sinus noted.
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : 434235663
+Modality : CT Sex : M
+Age : 54Y Study : CECT ABD THORAX
+Reff. Dr. : Study Date : 03-06-2024
+CECT ABDOMEN AND PELVIS
+Helical MDCT study of abdomen and pelvis done with IV contrast.
+FINDINGS :
+Head of pancreas, CBD, gallbladder and gastric antropylorus are not visualized (post-op) with multiple surgical
+sutures in operative bed.
+Air within common hepatic duct and left intrahepatic biliary radicles, likely due to post-hepatico-duodenostomy status.
+Mild non-enhancing perivascular cuffing is noted around the celiac trunk, right common hepatic and proximal
+splenic artery.
+Liver is normal in size (14 cm), density and morphology. IHBR not dilated. No SOL seen. Mild intrahepatic
+periportal cuffing with patchy intraparenchymal hypodensity is seen in segment 8 of liver.
+Body and tail of pancreas is mildly atrophic with minimal prominence of main pancreatic duct (2.5 mm)
+Splenoportal vein is normal.
+Spleen is normal in size (9.2 cm) and density.
+Rest of stomach, duodenum, small and large bowel are normal.
+Bilateral kidneys are normal in size, shape. No calculus seen. Pelvicalyceal system is normal. Perinephric region
+is normal.
+Ureters are normal.
+Adrenal appears normal.
+UB shows normal wall and lumen.
+Prostate appears normal in morphology and density.
+Retroperitoneum is normal.
+No free fluid noted.
+Aorta, IVC and para-aortic regions are normal. No para-aortic lymphnodes seen.
+Visualised abdominal wall are normal.
+Few calcific foci noted in left epididymis.
+Degenerative changes in visualized spine.
+        </Medical_Report>
+
+        <Impression>
+        In a follow up case of post-operated periampullary carcinoma, present scan
+shows:
+Mild non-enhancing perivascular cuffing around the celiac trunk, common hepatic artery and
+proximal splenic artery, likely post-op changes.
+No obvious evidence of residual or recurrent lesion in present scan.
+Patchy hypoenhancement with mild intrahepatic periportal cuffing in segment VIII of liver.
+Pneumobilia.
+Adv: Follow up.
+HRCT CHEST
+HRCT sections of chest were studied without contrast. Post processing MPR was done in coronal & sagittal
+mode.
+FINDINGS:
+Lung parenchyma appears normal in attenuation.
+No focal nodule, bronchiectasis or interstitial thickening.
+Trachea, carina & major bronchi are normal.
+Few subcentimetric oval bilateral paratracheal and subcarinal lymph nodes, larges measuring 8.2 mm in short
+axis, likely reactive.
+Visualised bones are grossly normal.
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : 367245981
+Modality : CT Sex : M
+Age : 16Y Study : NCCT ORBIT
+Reff. Dr. : Study Date : 24-05-2024
+NCCT ORBITS
+Axial and coronal sections of orbits and paranasal sinuses were studied.
+FINDINGS:
+A well defined lesion measuring 1.3 cm x 2.2 cm x 3 cm (AP X TR X CC) is seen at superolateral aspect of right
+orbit. The lesion shows thin smooth wall and internal fat density. Few spaces of soft tissue density ware also
+noted within the lesion. The lesion is abutting the right lacrimal gland and the orbital septum. However, there is
+no obvious intraconal or extraconal extension.
+Both eyeballs are normal in size, shape and position.
+Bilateral extra occular muscles are normal.
+Retrobulbar fat is normal.
+Optic nerves are normal.
+Optic canal and superior and inferior orbital fissures are normal.
+Visulised sections of brain is normal.
+Mild deviation of nasal septum with bony spur towards left side.
+Right inferior turbinate hypertophy. Bilateral concha bullosa. Rest turbinates are normal.
+Osteomeatal units on both sides are normal.
+Cribriform plate is normal.
+Mild mucosal thickening in bilateral maxillary sinuses.
+Rest of paranasal sinuses are normal.
+        </Medical_Report>
+
+        <Impression>
+        Dermoid cyst at superolateral aspect of right orbit.
+Date 24-05-2024 Time 19-42-33
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : KAN
+Modality : MR Sex : F
+Age : 60Y Study : l-spine^GenX
+Reff. Dr. : Study Date : 17-06-2024
+MRI L.S. SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials ; STIR, T2 FSE coronal & MR Myelography of the lumbar spine were studied. Whole
+spine screening also done.
+FINDINGS :
+L4-L5 LEVEL: Disc desiccation with broad based posterocentral disc protrusion with mild ligamentum flavum
+thickening causing mild stenosis of adjacent spinal canal.
+L3-L4 LEVEL: Disc desiccation with diffuse disc bulge causing indentation of the anterior thecal sac.
+L5-S1 LEVEL: Disc desiccation with diffuse disc bulge causing anterior thecal sac indentation. Small tear in
+posterior outer annular disc.
+Rest of the intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+AP Sagittal Canal Diameter mms :
+L1 â€“15.4 L1-L2 â€“14.5
+L2 â€“14.1 L2-L3 â€“
+13.2
+L3 â€“12.3 L3-L4 â€“ 11
+L4 â€“11.9 L4-L5 â€“ 7
+L5 â€“11 L5-S1 â€“12.3
+SI JOINTS:
+Bilateral sacroilliac joints appears normal.
+SCREENING OF CERVICAL & DORSAL SPINE :
+C6-C7 LEVEL: Posterior disc osteophyte complex causing indentation of the anterior thecal sac.
+C3-C4, C4-C5, C5-C6 LEVELS: Posterocentral focal protrusion causing indentation of the anterior thecal sac.
+Disc desiccation at multiple levels.
+No obvious cord compression or altered intramedullary signal intensity.
+Rest of cervico-dorsal IV discs appears normal.
+Cervico-dorsal vertebral bodies appears normal.
+Cervico-dorsal spinal canal & cord appears normal.
+        </Medical_Report>
+
+        <Impression>
+        Moderate degenerative changes of lumbar spine.
+Mild degenerative changes of cervical spine.
+Date 18-06-2024 Time 05-55-57
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : JHA
+Modality : MR Sex : F
+Age : 44Y Study : head^GenX
+Reff. Dr. : Study Date : 07-11-2024
+MRI BRAIN
+T1, T2, FLAIR, DWI, SWI - axials; 3D T1 - FSE sagittal.
+FINDINGS:
+A well-defined fat signal intensity lesion measuring 1.1 cm x 3.5 cm x 3 cm (AP X TR X CC) is seen in right
+occipital scalp. No intracranial extension.
+Cerebral parenchyma shows normal morphology and signal intensity. No evidence of any focal or diffuse lesion.
+Bilateral basal ganglia and thalamus appears normal.
+The sellar and parasellar regions are normal.
+The brainstem and cerebellum are normal.
+Ventricular system are normal.
+Cisterns & subarachnoid spaces shows normal CSF signal.
+Bilateral IAM & 7th & 8th nerve appears normal.
+Intracranial vessels and dural venous sinuses shows normal flow signal.
+The C.V. junction is normal.
+Visualised paranasal sinuses & orbits are normal.
+Note made of mastoidectomy on right side.
+        </Medical_Report>
+
+        <Impression>
+        A well-defined fat signal intensity lesion measuring 1.1 cm x 3.5 cm x 3 cm (AP X TR X CC) in
+right occipital scalp- suggestive of scalp lipoma.
+MRI CERVICAL SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials; STIR, T2 FSE coronal & MR Myelography of the Cervical spine were studied.
+Whole spine screening also done.
+FINDINGS:
+Loss of cervical lordosis.
+Disc desiccation at all levels.
+C5-C6 LEVEL: Mild diffuse disc bulge causing mild anterior thecal sac indentation. No evidence of cord
+compression. Cord signal is normal.
+Hemangioma in C6 vertebra.
+Rest of intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+Cervical spinal canal appears normal.
+Cervical cord is normal in morphology and MR signal intensity.
+The pre and paravertebral soft tissues appear normal.
+CV Junction appears normal.
+No evidence of any chiari malformation.
+AP diameter ..:
+C2-C3: 11.9 mm.
+C3-C4: 12.3 mm.
+C4-C5: 11.5 mm.
+C5-C6: 11.5 mm.
+C6-C7: 11.9 mm.
+SCREENING OF DORSO-LUMBAR SPINE:
+L4-L5 LEVEL: Disc desiccation with diffuse disc bulge causing anterior thecal sac indentation. Posterior outer
+annular tear.
+Dorso-lumbar IV discs appears normal.
+Dorso-lumbar vertebral bodies appears normal.
+Dorso-lumbar spinal canal & cord appears normal.
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : 491225829
+Modality : CT Sex : F
+Age : 46Y Study : NCCT BRAIN
+Reff. Dr. : Study Date : 25-08-2024
+NCCT BRAIN
+Serial axial sections of brain were studied.
+FINDINGS:
+Cerebral hemispheres show normal morphology and attenuation. No EDH / SDH/SAH.
+Physiological calcification in bilateral globus pallidus.
+Ventricular system and cisterns are normal.
+Brainstem and cerebellum are normal.
+Sella and suprasellar region is normal.
+Skull vault is normal.
+Visualized paranasal sinuses and orbits show no significant abnormality.
+        </Medical_Report>
+
+        <Impression>
+        · No significant intracranial abnormality detected.
+Date 25-08-2024 Time 18-54-26
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",0
+"<Medical_Report>
+        : 533246062
+Modality : CT Sex : M
+Age : 03Y Study : NCCT BRAIN
+Reff. Dr. : Study Date : 06-11-2024
+NCCT BRAIN
+Serial axial sections of brain were studied.
+FINDINGS:
+Cerebral hemispheres show normal morphology and attenuation. No EDH / SDH/SAH.
+Ventricular system and cisterns are normal.
+Brainstem and cerebellum are normal.
+Sella and suprasellar region is normal.
+Skull vault is normal.
+Visualized paranasal sinuses and orbits show no significant abnormality.
+        </Medical_Report>
+
+        <Impression>
+        Â· No significant intracranial abnormality detected.
+Date 07-11-2024 Time 07-35-23
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",0
+"<Medical_Report>
+        : 450245896
+Modality : CT Sex : F
+Age : 51Y Study : HRCT THORAX
+Reff. Dr. : Study Date : 18-08-2024
+HRCT CHEST
+HRCT sections of chest were studied without contrast. Post processing MPR was done in coronal & sagittal
+mode.
+FINDINGS:
+Mild peribronchial cuffing with mucoid impaction in few of the subsegmental bronchioles in left lower lobe.
+Rest of lung parenchyma appears normal in attenuation.
+No focal nodule, bronchiectasis or interstitial thickening.
+Trachea, carina & major bronchi are normal.
+No Mediastinal lymphadenopathy noted.
+Visualised bones are grossly normal.
+        </Medical_Report>
+
+        <Impression>
+        Mild peribronchial cuffing with mucoid impaction in few of the subsegmental bronchioles in
+left lower lobe- suggestive of small airway disease.
+Date 18-08-2024 Time 17-09-24
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : PRA
+Modality : MR Sex : M
+Age : 41Y Study : head^GenX
+Reff. Dr. : Study Date : 20-07-2024
+MRI BRAIN WITH VENOGRAM
+T1, T2, FLAIR, DWI, SWI - AXIALS ; 3D T1 - SAGITTAL
+BRAIN:
+Cerebral parenchyma shows normal morphology and signal intensity. No evidence of any focal or diffuse lesion.
+Bilateral basal ganglia and thalamus appears normal. Soft calcification in bilateral globus pallidus.
+The sellar and parasellar regions are normal.
+The brainstem and cerebellum are normal.
+Ventricular system is normal.
+Cisterns & subarachnoid spaces shows normal CSF signal.
+Bilateral IAM & 7th & 8th nerve appears normal.
+The C.V. junction is normal.
+Visualised Paranasal sinuses & orbits are normal.
+Note made of a cystic lesion inferior to right maxillary sinus ?odontogenic cyst.
+MRV: (3D PC)
+Left transverse sinus is hypoplastic.
+Superior sagittal sinus show normal flow signal intensity.
+Bilateral transverse and sigmoid venous sinuses show normal flow signal intensity.
+Internal cerebral vein, great vein of galen, vein of trolard and superficial cortical veins show normal flow signal
+intensity.
+Straight sinus is normal.
+No evidence to suggest sinus venous thrombosis noted.
+        </Medical_Report>
+
+        <Impression>
+        No significant intracranial abnormality detected.
+Date 21-07-2024 Time 09-00-10
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",0
+"<Medical_Report>
+        : 530245766
+Modality : CT Sex : F
+Age : 18Y Study : HRCT CHEST
+Reff. Dr. : Study Date : 03-11-2024
+HRCT CHEST
+HRCT sections of chest were studied without contrast. Post processing MPR was done in coronal & sagittal
+mode.
+FINDINGS:
+Lung parenchyma appears normal in attenuation.
+No focal nodule, bronchiectasis or interstitial thickening.
+Trachea, carina & major bronchi are normal.
+No Mediastinal lymphadenopathy noted.
+Visualised bones are grossly normal.
+        </Medical_Report>
+
+        <Impression>
+        No significant abnormality detected.
+Date 03-11-2024 Time 15-38-31
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",0
+"<Medical_Report>
+        : ARU
+Modality : MR Sex : F
+Age : 28Y Study : pelvis^GenX
+Reff. Dr. : Study Date : 18-08-2024
+MRI WHOLE ABDOMEN AND PELVIS
+Multiecho T1 & T2 sequences in axial sagittal and coronal planes.
+FINDINGS:
+The uterus measures 7.4 cm x 6.2 cm x 2.5 cm is normal in size, shape and signal intensity. The endometrium is
+normal in thickness (ET: 7 mm) and signal intensity. The endometrial cavity is devoid of any abnormal contents.
+Right ovary measures 4.2 cm x 4 cm x 2.2 cm (vol: 18 ml). Left ovary measures 3.4 cm x 3.2 cm x 2.3 cm (12
+ml). Bilateral ovaries are bulky and show multiple small peripherally arranged follicles. No evidence of dominant
+follicle. A cyst measuring 12 mm x 11 mm is seen in left ovary and shows curvilinear fat signals along its walls.
+Another tiny fat foci measuring 3.6 mm in right ovary.
+Liver is normal in size, shape and signal intensity with no evidence of any focal lesion. The intrahepatic biliary
+radicals and common duct are not dilated.
+The gall bladder is well distended and appears normal. (Advised USG correlation to look for any tiny polyp).
+CBD appears normal in course and caliber.
+The pancreas is normal with no evidence of any focal lesion. The peripancreatic fat planes and retroperitoneum
+appear normal.
+The spleen is normal in size, shape and signal intensity.
+Both kidneys are normal in size, shape and outline. Pelvicalyceal systems and ureters are normal in caliber.
+Both the adrenals are normal in size, shape and signal intensity pattern. No evidence of any adrenal mass lesion.
+Urinary bladder is normal in position, outline with clear lumen and smooth thin walls.
+No free fluid or loculated collection is seen.
+There is no evidence of abdominal lymphadenopathy. Major abdominal blood vessels are normal.
+Visualised bones appear grossly normal.
+IMPRESSION :
+Bilateral polycystic ovarian morphology. Advised clinico-hormonal correlation.
+A well defined cyst measuring 12 mm x 11 mm in left ovary showing fat signal along its
+walls, likely small early dermoid cyst.
+Another tiny fat foci measuring 3.6 mm in right ovary.
+Date 18-08-2024 Time 21-43-30
+        </Medical_Report>
+
+        <Impression>
+        Bilateral polycystic ovarian morphology. Small early dermoid cyst in left ovary with a tiny fat focus in right ovary. 
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : MRU
+Modality : MR Sex : F
+Age : 34Y Study : l-spine^GenX
+Reff. Dr. : Study Date : 05-09-2024
+MRI L.S. SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials ; STIR, T2 FSE coronal & MR Myelography of the lumbar spine were studied. Whole
+spine screening also done.
+FINDINGS :
+L4-L5 LEVEL: Mild disc desiccation with mild posterior disc bulge causing minimal anterior thecal sac
+indentation.
+Rest of the intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+AP Sagittal Canal Diameter mms :
+L1 â€“ 15 L1-L2 â€“
+15.8
+L2 â€“ 15.8 L2-L3 â€“
+15.4
+L3 â€“ 13.2 L3-L4 â€“
+13.6
+L4 â€“ 14.5 L4-L5 â€“
+11.4
+L5 â€“ 14 L5-S1 â€“
+13.6
+SI JOINTS:
+Bilateral sacroilliac joints appears normal.
+SCREENING OF CERVICAL & DORSAL SPINE :
+Loss of cervical lordosis.
+C3-C4, C4-C5 and C5-C6 LEVELS: Disc desiccation with mild posterior disc bulge causing mild anterior thecal
+sac indentation.
+Rest of cervico-dorsal IV discs appears normal.
+Cervico-dorsal vertebral bodies appears normal.
+Cervico-dorsal spinal canal & cord appears normal.
+        </Medical_Report>
+
+        <Impression>
+        L4-L5 LEVEL: Mild disc desiccation with mild posterior disc bulge causing minimal anterior
+thecal sac indentation.
+Loss of cervical lordosis.
+C3-C4, C4-C5 and C5-C6 LEVELS: Disc desiccation with mild posterior disc bulge causing mild
+anterior thecal sac indentation.
+Date 05-09-2024 Time 18-11-24
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : KAN
+Modality : MR Sex : F
+Age : 55Y Study : pelvis^GenX
+Reff. Dr. : Study Date : 27-04-2024
+MRI PERINEUM
+Multiplanar imaging with T1 & T2 FSE, T2 FAT SAT and STIR.
+FINDINGS:
+A T2 hyperintense trans-sphincteric fistula in ano is noted. The diameter of the tract is 6 mm and the length of
+the tract is 5.8 cm. The external opening of the fistula is at the left perianal region at 3 o'clock position.The tract
+courses anteriorly and pierces the left external sphincter at 5 o' clock position and and opens in the posterior
+aspect of anal canal at 6 o' clock position. A blind ending secondary ramification of the tract is seen extending
+into the subcutaneous plane of left gluteal region. Mild diffusion restriction is noted along the fistulous tract. No
+evidence of translevator/ supralevator extension. No drainable abscess pockets.
+Rest of external and internal anal sphincter are normal.
+Bilateral ischiorectal & ischioanal fossa appears normal.
+Bilateral levator ani muscles are normal.
+Rectum appears normal.Perirectal fat planes are normal.
+Visualised bones appear normal.
+Urinary bladder & pelvic organs appears normal.
+No evidence of any pelvic free fluid.
+Gluteal muscles appear normal.
+Note made of few prominent oval left external iliac lymph nodes, largest measuring 9.6 mm, likely reactive
+nodes.
+        </Medical_Report>
+
+        <Impression>
+        Trans-sphincteric fistula in ano with internal opening at 6 o' clock position and small
+secondary ramification as described (St. Jame's University Hospital Classification Grade 4).
+Date 28-04-2024 Time 09-41-47
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",3
+"<Medical_Report>
+        : 413245977
+Modality : CT Sex : M
+Age : 31Y Study : NCCT PNS
+Reff. Dr. : Study Date : 09-07-2024
+NCCT PNS
+Serial axial sections with MPR of paranasal sinuses were studied.
+FINDINGS:
+Deviated nasal septum with bony spur towards left.
+Right inferior and middle turbinate hypertrophy.
+Bilateral concha bullosa.
+Rest of bilateral nasal turbinates are normal.
+Bilateral frontal, ethmoid, maxillary and sphenoidal sinuses are normal. No mucosal thickening or fluid collection
+seen.
+Frontal and sphenoethmoidal recesses are normal.
+Osteomeatal units on both sides are normal.
+Cribriform plate is normal.
+Fovea and lateral lamella are normal on both sides.
+Bony walls of paranasal sinuses are normal.
+Bilateral orbits appear unremarkable.
+Nasopharynx is normal.
+Type II uncinate process on right side and type I uncinate process on left side.
+Kero's type 2 ethmoid roof on both sides.
+        </Medical_Report>
+
+        <Impression>
+        Deviated nasal septum with bony spur towards left.
+Right inferior and middle turbinate hypertrophy.
+Date 09-07-2024 Time 21-15-21
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : PRA
+Modality : MR Sex : F
+Age : 16Y Study : l-spine^GenX
+Reff. Dr. : Study Date : 03-08-2024
+MRI L.S. SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials ; STIR, T2 FSE coronal & MR Myelography of the lumbar spine were studied. Whole
+spine screening also done.
+FINDINGS :
+Loss of lumbar lordosis.
+L4-L5 and L5-S1 LEVEL: Mild posterior disc bulge causing minimal anterior thecal sac indentation.
+The intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+AP Sagittal Canal Diameter mms :
+L1 – 15.5 L1-L2 –
+12.3
+L2 – 14.5 L2-L3 –
+11.9
+L3 – 12.8 L3-L4 –
+11.5
+L4 – 11.4 L4-L5 – 11
+L5 – 11.5 L5-S1 – 9.2
+SI JOINTS:
+Bilateral sacroilliac joints appears normal.
+SCREENING OF CERVICAL & DORSAL SPINE :
+Cervico-dorsal IV discs appears normal.
+Cervico-dorsal vertebral bodies appears normal.
+Cervico-dorsal spinal canal & cord appears normal.
+        </Medical_Report>
+
+        <Impression>
+        Loss of lumbar lordosis.
+L4-L5 and L5-S1 LEVEL: Mild posterior disc bulge causing minimal anterior thecal sac
+indentation.
+Date 03-08-2024 Time 20-29-04
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : PRA
+Modality : MR Sex : M
+Age : 50Y Study : pelvis^GenX
+Reff. Dr. : Study Date : 06-09-2024
+MRI PERINEUM
+Multiplanar imaging with T1 & T2 FSE, T2 FAT SAT and STIR.
+FINDINGS:
+A T2 hyperintense intersphincteric fistula in ano is seen. The diameter of the tract is 4.8 mm and the height of
+tract is 2.8 cm. The external opening of the fistula is at left perianal region and internal opening is at 6-7 o' clock
+postion of anal canal.
+No obvious supralevator/ translevator extension.
+Rest of anal canal appears normal.
+External and rest of internal anal sphincter are normal.
+Bilateral ischiorectal & ischioanal fossa appears normal.
+Bilateral levator ani muscles are normal.
+No evidence of any abscess.
+Rectum appears normal. Perirectal fat planes are normal.
+Visualised bones appear normal.
+Urinary Bladder & Pelvic organs appears normal.
+No evidence of any pelvic free fluid.
+Gluteal muscles appear normal.
+        </Medical_Report>
+
+        <Impression>
+        Inter-sphincteric fistula in ano with internal opening at 6-7 o' clock position of anal canal.
+Date 06-09-2024 Time 19-15-30
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : NAZ
+Modality : MR Sex : F
+Age : 40Y Study : l-spine^GenX
+Reff. Dr. : Study Date : 24-05-2024
+MRI L.S. SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials ; STIR, T2 FSE coronal & MR Myelography of the lumbar spine were studied. Whole
+spine screening also done.
+FINDINGS :
+L4-L5 LEVEL: Disc desiccation with broad based posterocentral disc protrusion causing indentation of the
+anterior thecal sac. Mild left facet joint arthrosis.
+L5-S1 LEVEL: Disc desiccation with broad based posterocentral disc protrusion causing indentation of the
+anterior thecal sac.
+The rest of intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+AP Sagittal Canal Diameter mms :
+L1 â€“ 13.6 L1-L2 â€“
+13.7
+L2 â€“ 13.2 L2-L3 â€“
+13.2
+L3 â€“ 12.8 L3-L4 â€“
+13.6
+L4 â€“ 14.9 L4-L5 â€“
+10.5
+L5 â€“ 11.4 L5-S1 â€“ 11
+SI JOINTS:
+Bilateral sacroilliac joints appears normal.
+SCREENING OF CERVICAL & DORSAL SPINE :
+Cervico-dorsal IV discs appears normal.
+Cervico-dorsal vertebral bodies appears normal.
+Cervico-dorsal spinal canal & cord appears normal.
+        </Medical_Report>
+
+        <Impression>
+        No significant abnormality detected.
+Date 24-05-2024 Time 18-24-41
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : 531245880
+Modality : CT Sex : F
+Age : 50Y Study : CECT ABD
+Reff. Dr. : Study Date : 04-11-2024
+CECT ABDOMEN AND PELVIS
+Helical MDCT study of abdomen and pelvis done with IV contrast.
+FINDINGS:
+Liver is normal in size (14.5 cm), density and morphology. IHBR not dilated. No SOL seen.
+Splenoportal vein is normal.
+Spleen is normal in size (7.2 cm) and density.
+GB is not visualized (post-op). Few surgical clips in GB fossa.
+CBD is mildly dilated (diameter: 12 mm) with mild central intrahepatic biliary radicles prominence. However,
+smooth tapering of CBD into ampulla.
+Pancreas normal in size and density. No calculi or ductal dilatation.
+Stomach, duodenum, small and large bowel are normal.
+Bilateral kidneys are normal in size, shape. No calculus seen. Pelvicalyceal system is normal. Perinephric region
+is normal. Simple benign exophytic cortical cyst measuring 2.7 cm 2.3 cm upper pole of left kidney.
+Ureters are normal.
+Adrenal appears normal.
+UB shows normal wall and lumen.
+Uterus and ovaries are normal.
+Retroperitoneum is normal.
+No free fluid noted.
+Aorta, IVC and para-aortic region are normal. No para-aortic lymphnodes seen.
+Visualised bones and abdominal wall are normal.
+        </Medical_Report>
+
+        <Impression>
+        Mildly dilated CBD (diameter: 12 mm) with mild central intrahepatic biliary radicles
+prominence- likely due to post-cholecystectomy status.
+Otherwise, no significant abnormality detected.
+Date 04-11-2024 Time 19-50-19
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : 446245643
+Modality : CT Sex : F
+Age : 63Y Study : NCCT BRAIN
+Reff. Dr. : Study Date : 11-08-2024
+NCCT BRAIN
+Serial axial sections of brain were studied.
+FINDINGS:
+Scalp hematoma of thickeness 3.2 mm in mid posterior parietal region.
+Cerebral hemispheres show normal morphology and attenuation. No EDH / SDH/SAH.
+Ventricular system and cisterns are normal.
+Brainstem and cerebellum are normal.
+Sella and suprasellar region is normal.
+Skull vault is normal.
+Visualized paranasal sinuses and orbits show no significant abnormality.
+        </Medical_Report>
+
+        <Impression>
+        Scalp hematoma of thickeness 3.2 mm in mid posterior parietal region.
+No significant intracranial injury detected.
+Date 11-08-2024 Time 14-37-40
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : 355245660
+Modality : CT Sex : M
+Age : 44Y Study : CECT ABDOMEN
+Reff. Dr. : Study Date : 12-05-2024
+CECT ABDOMEN AND PELVIS
+Helical MDCT study of abdomen and pelvis done with IV contrast.
+FINDINGS :
+Right kidney is absent.
+Left kidney measures 12 cm x 7.2 cm and shows normal contrast enhancement. A calcific focus of size 7.2 mm x
+6 mm is noted at lower pole cortex of left kidney. Left renal calyces and renal pelvis appear normal. On delayed
+phase, normal excretion of contrast is seen in left ureter and urinary bladder.
+Liver is normal in size (14.5 cm), density and morphology. IHBR not dilated. No SOL seen.
+Splenoportal vein is normal.
+Spleen is normal in size (10.2 cm) and density.
+GB shows normal walls and lumen. (Calculi better visulised in Ultrasound)
+CBD is normal.
+Pancreas normal in size and density. No calculi or ductal dilatation.
+Stomach, duodenum, small and large bowel are normal.
+Adrenal appears normal.
+UB shows normal wall and lumen.
+Prostate appears normal in morphology and density.
+Retroperitoneum is normal.
+No free fluid noted.
+Aorta, IVC and para-aortic regions are normal. No para-aortic lymphnodes seen.
+Visualised bones and abdominal wall are normal.
+        </Medical_Report>
+
+        <Impression>
+        Right renal agenesis.
+Compensatory enlargement of left kidney.
+A small calcific focus in lower pole cortex of left kidney, likely benign cortical calcification.
+Date 12-05-2024 Time 19-09-08
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : CHA
+Modality : MR Sex : M
+Age : 20Y Study : l-spine^GenX
+Reff. Dr. : Study Date : 22-06-2024
+MRI L.S. SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials ; STIR, T2 FSE coronal & MR Myelography of the lumbar spine were studied. Whole
+spine screening also done.
+FINDINGS :
+Lumbosacral transitional vertebra, Castellvi type IIIb.
+L4-L5 LEVEL: Disc desiccation with broad based left paracentral disc protrusion causing indentation of the
+anterior thecal sac and effacement of the left lateral recess.
+L3-L4 LEVEL: Broad based posterocentral disc protrusion with posterior outer annular tear causing
+indentation of the anterior thecal sac.
+Rest of the intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+AP Sagittal Canal Diameter mms :
+L1 â€“ 16.5 L1-L2 â€“ 14
+L2 â€“ 14 L2-L3 â€“
+13.2
+L3 â€“ 11 L3-L4 â€“ 10
+L4 â€“ 11.5 L4-L5 â€“
+10.3
+L5 â€“ 11.5 L5-S1 â€“
+10.7
+SI JOINTS:
+Bilateral sacroilliac joints appears normal.
+SCREENING OF CERVICAL & DORSAL SPINE :
+Cervico-dorsal IV discs appears normal.
+Cervico-dorsal vertebral bodies appears normal.
+Cervico-dorsal spinal canal & cord appears normal.
+        </Medical_Report>
+
+        <Impression>
+        Mild degenerative changes of lumbar spine at L4-L5 and L3-L4 levels as described.
+Lumbosacral transitional vertebra, Castellvi type IIIb.
+Date 23-06-2024 Time 17-42-32
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : 477245938
+Modality : CT Sex : F
+Age : 77Y Study : NCCT KUB
+Reff. Dr. : Study Date : 15-09-2024
+CT KUB
+Non-contrast and contrast MDCT study of KUB region done with MPR.
+FINDINGS :
+Bilateral kidneys are normal in size, position and density. No calculi or hydronephrosis. Bilateral mild perirenal
+fat stranding. Pelvicalyceal system normal on both side.
+Right kidney measures : 9.1 x 5.2 cm.
+Left kidneys measures : 9 x 4.8 cm.
+Ureters are normal.
+Urinary bladder is distended and normal. Walls and lumens are normal.
+Uterus and ovaries are normal.
+Visualised bowel loops are normal.
+No free fluid seen.
+Visualised abdominal wall are normal.
+Degenerative changes in spine and along pubic symphysis.
+IMPRESSION :
+Bilateral mild perirenal fat stranding. Adv RFT correlation.
+Date 15-09-2024 Time 19-27-45
+        </Medical_Report>
+
+        <Impression>
+        Bilateral mild perirenal fat stranding with normal kidneys, ureters, and urinary bladder. No calculi or hydronephrosis. Notable degenerative changes in spine and pubic symphysis.
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : SWA
+Modality : MR Sex : M
+Age : 7Y Study : head^GenX
+Reff. Dr. : Study Date : 13-10-2024
+MRI BRAIN (EPILEPSY PROTOCOL)
+T1, T2, FLAIR, DWI, SWI - axials; 3D T1 â€“ FSE, 3D T2 FLAIR sagittal, Oblique coronal T2 FSE.
+FINDINGS:
+Mild cortical thickening with T2/ FLAIR hyperintensity is seen in right posterior parietal lobe with a thin
+FLAIR hyperintense line extending from the cortex to the ventricle.
+Another focal area of cortical thickening with mild T2/ FLAIR hyperintensity is seen in right parasagittal frontal
+lobe.
+Note made of persistent cavum velum interpositum.
+Bilateral hippocampi and medial temporal cortex are symmetrical and normal in morphology and signal
+intensity.
+Rest of cerebral parenchyma shows normal morphology and signal intensity.
+Bilateral basal ganglia and thalamus appears normal.
+The sellar and parasellar regions are normal.
+The brainstem and cerebellum are normal.
+Ventricular system are normal.
+Cisterns & subarachnoid spaces shows normal CSF signal.
+Bilateral IAM & 7th & 8th nerve appears normal.
+Intracranial vessels and dural venous sinuses shows normal flow signal.
+The C.V. junction is normal.
+Visualised paranasal sinuses & orbits are normal.
+        </Medical_Report>
+
+        <Impression>
+        Mild cortical thickening with T2/ FLAIR hyperintensity in right posterior parietal lobe
+with a thin FLAIR hyperintense line extending from the cortex to the ventricle
+(transmantle sign)
+Another focal area of cortical thickening with mild T2/ FLAIR hyperintensity is seen in
+right parasagittal frontal lobe.
+Note made of persistent cavum velum interpositum.
+Features are suggestive of focal cortical dysplasia type II.
+Date 13-10-2024 Time 16-30-14
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : MR02620
+Modality : CT Sex : F
+Age : 065Y Study : 01_Abdomen Plain(Adult)
+Reff. Dr. : DR.^PRADEEP^PANIGRAHI Study Date : 11-11-2024
+CECT ABDOMEN AND PELVIS
+Helical MDCT study of abdomen and pelvis done with IV contrast.
+FINDINGS:
+Pancreas is diffusely enlarged (size head: 2.8 cm; body: 2.9; tail: 2.6 cm) and heterogeneous. Acute necrotic
+collection (approx vol: 200-400 ml) with multiple air foci are seen involving the tail of pancreas and extending
+into the lesser sac and right anterior pararenal space. There is significant peripancreatic fat stranding.
+Diffuse mural thickening (max. thickness: 14 mm) of body of stomach- likely due to adjacent pancreatic
+inflammation.
+Liver is normal in size (13 cm) morphology. IHBR not dilated. No SOL seen. Diffuse fatty infiltration of liver.
+Posrtal vein is normal. Splenic artery is not distinctly visualized.
+Spleen is normal in size (9 cm) and density.
+GB distended shows normal lumen and wall. (Calculi better evaluated in USG)
+CBD is normal.
+Stomach, duodenum, small and large bowel are normal.
+Bilateral kidneys are normal in size, shape. No calculus seen. Pelvicalyceal system is normal. Perinephric region
+is normal.
+Ureters are normal.
+Adrenal appears normal.
+Foley's in situ in UB lumen.
+Uterus and ovaries are normal.
+Retroperitoneum is normal.
+No ascites.
+Aorta, IVC and para-aortic region are normal. No para-aortic lymphnodes seen.
+Visualised abdominal wall are normal.
+Degenerative changes of spine.
+        </Medical_Report>
+
+        <Impression>
+        Diffusely enlarged pancreas with acute necrotic collection containing multiple air foci in
+the lesser sac and right anterior pararenal space- suggestive of acute emphysematous
+pancreatitis.
+Diffuse mural thickening of body of stomach- likely due to adjacent pancreatic
+inflammation.
+Diffuse fatty infiltration of liver.
+Date 11-11-2024 Time 21-04-18
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",3
+"<Medical_Report>
+        : 5420.770312103
+Modality : MR Sex : M
+Age : 43Y Study :
+Reff. Dr. : Study Date : 29-06-2024
+MRI L.S. SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials ; STIR, T2 FSE coronal & MR Myelography of the lumbar spine were studied. Whole
+spine screening also done.
+FINDINGS :
+L4-L5 LEVEL: Disc desiccation with broad based posterocentral disc protrusion causing mild indentation of the
+anterior thecal sac. Posterior outer annular tear of disc.
+Rest of the intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+AP Sagittal Canal Diameter mms :
+L1 â€“ 16.5 L1-L2 â€“
+16.4
+L2 â€“ 14.9 L2-L3 â€“
+15.4
+L3 â€“ 15.9 L3-L4 â€“
+14.4
+L4 â€“ 15.5 L4-L5 â€“ 14
+L5 â€“ 13 L5-S1 â€“
+13.9
+SI JOINTS:
+Bilateral sacroilliac joints appears normal.
+        </Medical_Report>
+
+        <Impression>
+        L4-L5 LEVEL: Disc desiccation with broad based posterocentral disc protrusion causing mild
+indentation of the anterior thecal sac. Posterior outer annular tear of disc.
+Date 29-06-2024 Time 18-13-20
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : 544245576
+Modality : CT Sex : M
+Age : 30Y Study : NCCT BRAIN
+Reff. Dr. : Study Date : 17-11-2024
+NCCT BRAIN
+Serial axial sections of brain were studied.
+FINDINGS:
+Right fronto-temporal cranioplasty status.
+Subacute extradural hematoma of maximum thickness 3 cm is seen along the right fronto-parietal region.
+There is mass effect in the form of effacement of adjacent sulci and right lateral ventricle and midline shift of 9.2
+mm to left and uncal herniation. Few foci of underlying dural calcifications present.
+Subgaleal hematoma of maximum thickness 15 mm is seen overlying the cranioplasty falp in right fronto-
+parieto-temporal scalp region.
+Focal hypodensity seen in left inferior temporal lobe.
+Rest of cerebral hemispheres show normal morphology and attenuation.
+Rest of ventricular system and cisterns are normal.
+Brainstem and cerebellum are normal.
+Sella and suprasellar region is normal.
+Rest of skull vault is normal.
+Visualized paranasal sinuses and right orbit show no significant abnormality.
+Note made of ocular implant in left orbit.
+        </Medical_Report>
+
+        <Impression>
+        Right fronto-temporal cranioplasty status.
+Subacute extradural hematoma of maximum thickness 3 cm along the right fronto-
+parietal region causing mass effect in the form of effacement of adjacent sulci and
+subfalcine and uncal herniation.
+Subgaleal hematoma of maximum thickness 15 mm overlying the cranioplasty falp in
+right fronto-parieto-temporal scalp region.
+Focal hypodensity seen in left inferior temporal lobe- suggestive of old contusion injury.
+Date 17-11-2024 Time 19-19-38
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",3
+"<Medical_Report>
+        : 428245891
+Modality : CT Sex : M
+Age : 26Y Study : NCCT KUB
+Reff. Dr. : Study Date : 24-07-2024
+NCCT KUB
+Plain MDCT study of KUB region done with MPR.
+FINDINGS:
+A hyperdense calculus measuring 5 mm is seen at left vesico-ureteric junction causing mild left
+hydroureteronephrosis.
+A tiny concretion measuring 3.8 mm is seen at upper pole of right kidney.
+Bilateral kidneys are normal in size, position and density. Bilateral perinephric region is normal. Pelvicalyceal
+system normal on right side.
+Right kidney measures : 9 x 4.7 cm.
+Left kidneys measures : 8 x 4.7 cm.
+Right Ureter is normal.
+Urinary bladder is distended and normal. Walls and lumens are normal.
+Prostate and seminal vesicles are normal in size and density.
+Visualised bowel loops are normal.
+No free fluid seen.
+Visualised bones and abdominal wall are normal.
+Note made of small left indirect inguinal hernia with omentum as content.
+        </Medical_Report>
+
+        <Impression>
+        A hyperdense calculus measuring 5 mm at left vesico-ureteric junction causing mild left
+hydroureteronephrosis.
+A tiny concretion measuring 3.8 mm at upper pole of right kidney.
+Note made of small left indirect inguinal hernia with omentum as content.
+Date 24-07-2024 Time 20-30-24
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : SAT
+Modality : MR Sex : M
+Age : 70Y Study : l-spine^GenX
+Reff. Dr. : Study Date : 09-11-2024
+MRI L.S. SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials ; STIR, T2 FSE coronal & MR Myelography of the lumbar spine were studied. Whole
+spine screening also done.
+FINDINGS :
+Old wedge compression fracture of L2 vertebra with mild focal kyphotic deformity causing anterior thecal sac
+indentation. Superior endplate irregularity of L2 vertebra.
+Disc desiccation at all levels.
+L4-L5 LEVEL: Diffuse disc bulge with bilateral facet joints arthrosis and ligamentum flavum hypertrophy
+causing spinal canal stenosis.
+L3-L4 LEVEL: Mild diffuse disc bulge causing mild anterior thecal sac indentation.
+L5-S1 LEVEL: Bilateral facet joints arthrosis.
+The rest of intervertebral discs show no evidence of disc prolapse.
+Rest of vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+AP Sagittal Canal Diameter mms :
+L1 â€“ 13.6 L1-L2 â€“
+11.4
+L2 â€“ 13.2 L2-L3 â€“
+13.7
+L3 â€“ 12.3 L3-L4 â€“
+11.4
+L4 â€“ 11.5 L4-L5 â€“ 6.6
+L5 â€“ 11 L5-S1 â€“
+10.6
+SI JOINTS:
+Bilateral sacroilliac joints appears normal.
+SCREENING OF CERVICAL & DORSAL SPINE :
+Loss of cervical lordosis.
+C4-C5, C5-C6 and C6-C7 LEVELS: Disc desiccation with posterior disc osteophyte complex with unco-vertebral
+joints arthrosis and ligamentum flavum hypertrophy causing mild compression of anterior and posterior surface
+of spinal cord. Cord signal is grossly normal. Anterior marginal osteophytes.
+C3-C4 LEVEL: Posterior disc osteophyte complex causing anterior thecal sac indentation.
+Mild diffuse disc bulge causing mild anterior thecal sac indentation at multiple levels of dorsal spine. No cord
+compression at these levels.
+Rest of vervico-dorsal vertebral bodies appears normal.
+Rest of cervico-dorsal spinal canal & cord appears normal.
+        </Medical_Report>
+
+        <Impression>
+        Old wedge compression fracture of L2 vertebra with mild focal kyphotic deformity causing
+anterior thecal sac indentation. Superior endplate irregularity of L2 vertebra.
+Disc desiccation at all levels.
+L4-L5 LEVEL: Diffuse disc bulge with bilateral facet joints arthrosis and ligamentum flavum
+hypertrophy causing spinal canal stenosis.
+L3-L4 LEVEL: Mild diffuse disc bulge causing mild anterior thecal sac indentation.
+L5-S1 LEVEL: Bilateral facet joints arthrosis.
+Loss of cervical lordosis.
+C4-C5, C5-C6 and C6-C7 LEVELS: Disc desiccation with posterior disc osteophyte complex with
+unco-vertebral joints arthrosis and ligamentum flavum hypertrophy causing mild
+compression of anterior and posterior surface of spinal cord. Cord signal is grossly normal.
+Anterior marginal osteophytes.
+Date 10-11-2024 Time 09-28-57
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : 40724592
+Modality : CT Sex : F
+Age : 23Y Study : CECT ABDOMEN
+Reff. Dr. : Study Date : 03-07-2024
+CECT ABDOMEN AND PELVIS
+Helical MDCT study of abdomen and pelvis done with IV contrast.
+FINDINGS:
+Liver is normal in size (12 cm), density and morphology. IHBR not dilated. No SOL seen.
+Splenoportal vein is normal.
+Spleen is normal in size (9 cm) and density.
+GB distended shows normal lumen and wall. (Calculi better evaluated in USG)
+CBD is normal.
+Pancreas normal in size and density. No calculi or ductal dilatation.
+Fecal loaded colon. Stomach, duodenum, small and large bowel are normal.
+Bilateral kidneys are normal in size, shape. No calculus seen. Pelvicalyceal system is normal. Perinephric region
+is normal.
+Ureters are normal.
+Adrenal appears normal.
+UB shows normal wall and lumen.
+Uterus and ovaries are normal.
+Retroperitoneum is normal.
+No free fluid noted.
+Aorta, IVC and para-aortic region are normal. No para-aortic lymphnodes seen.
+Visualised bones and abdominal wall are normal.
+        </Medical_Report>
+
+        <Impression>
+        No significant abnormality seen.
+Date 03-07-2024 Time 19-30-44
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",0
+"<Medical_Report>
+        : 243235601
+Modality : CT Sex : F
+Age : 75Y Study : CECT A+P
+Reff. Dr. : Study Date : 17-09-2024
+CECT ABDOMEN AND PELVIS
+Helical MDCT study of abdomen and pelvis done with IV contrast.
+FINDINGS:
+Liver is mildly enlarged in size (16.7 cm), normal in density and morphology. IHBR not dilated. No SOL seen.
+Splenoportal vein is normal.
+Spleen is normal in size (8.8 cm) and density.
+GB distended shows normal lumen and wall. (Calculi better evaluated in USG)
+CBD is normal.
+Pancreas normal in size and density. No calculi or ductal dilatation.
+Stomach, duodenum, small and large bowel are normal.
+Bilateral kidneys are normal in size, shape. No calculus seen. Pelvicalyceal system is normal. Perinephric region
+is normal.
+Ureters are normal.
+Adrenal appears normal.
+UB shows normal wall and lumen.
+Uterus and ovaries are normal.
+Retroperitoneum is normal.
+No free fluid noted.
+Aorta, IVC and para-aortic region are normal. No para-aortic lymphnodes seen.
+Visualised abdominal wall are normal.
+Mild scoliosis of dorso-lumbar spine with convexity to left with degenerative changes of spine.
+        </Medical_Report>
+
+        <Impression>
+        Mild hepatomegaly.
+Date 17-09-2024 Time 18-55-10
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : SUB
+Modality : MR Sex : F
+Age : 29Y Study : pelvis^GenX
+Reff. Dr. : Study Date : 27-07-2024
+MRI PELVIS
+Multiplanar imaging with T1 & T2 FSE, T2 FAT SAT and STIR.
+FINDINGS:
+Uterus is enlarged measuring 10 x 8 x 6.5 cm and is anteverted. Endometrial thickness is within normal limits
+(ET: 5.7 mm).
+Multiple intramural fibroids (4 large and multiple small) are seen in both anterior and posterior myometrium,
+largest measuring 5 x 4.8 x 4.6 cm (AP X TR X CC) in posterior fundal myometrium.
+Urinary bladder is well distended. No obvious intraluminal pathology.
+Uterus is normal in size and position. Endometrium appears normal. Myometrium appears normal. Cervix
+appears normal.
+Bilateral ovaries are normal.
+Rectoanal canal and bilateral ischio rectal fossa appears normal.
+No evidence of any pelvic free fluid.
+No significant pelvic lymphnodes seen.
+Sacrum, coccyx and visualised bones appear normal.
+Gluteal and visualised thigh muscles appears normal.
+Bilateral hip & sacroiliac joints are normal.
+        </Medical_Report>
+
+        <Impression>
+        Multiple intramural fibroids (4 large and multiple small) in both anterior and posterior
+myometrium, largest measuring 5 x 4.8 x 4.6 cm (AP X TR X CC) in posterior fundal
+myometrium.
+Date 27-07-2024 Time 21-47-10
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : SAS
+Modality : MR Sex : F
+Age : 44Y Study : l-spine^GenX
+Reff. Dr. : Study Date : 22-09-2024
+MRI L.S. SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials ; STIR, T2 FSE coronal & MR Myelography of the lumbar spine were studied. Whole
+spine screening also done.
+FINDINGS :
+Counting of vertebra done from top starting from C1 vertebra.
+L5 is sacralized.
+L4-L5 LEVEL: Mild diffuse disc bulge causing anterior thecal sac indentation. Reduced intervertebral disc
+height. Mild defect in bilateral pars-interarticularis fixed with bilateral trans-pedicular screws in situ. Mild
+intramuscular edema within the paraspinal muscles.
+Bilateral trans-pedicular screws in situ at L3, L4 and L5 vertebrae.
+The rest of intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+AP Sagittal Canal Diameter mms :
+L1 â€“ 13.2 L1-L2 â€“
+12.8
+L2 â€“ 12.3 L2-L3 â€“ 11
+L3 â€“ 11.4 L3-L4 â€“ 11
+L4 â€“ 12 L4-L5 â€“ 11
+L5 â€“ 12 L5-S1 â€“ 7
+SI JOINTS:
+Bilateral sacroilliac joints appears normal.
+SCREENING OF CERVICAL & DORSAL SPINE :
+Loss of cervical lordosis.
+C4-C5 and C5-C6 LEVELS: Disc desiccation with diffuse disc bulge causing mild anterior thecal sac indentation.
+Rest of cervico-dorsal IV discs appears normal.
+Cervico-dorsal vertebral bodies appears normal.
+Cervico-dorsal spinal canal & cord appears normal.
+        </Medical_Report>
+
+        <Impression>
+        Counting of vertebra done from top starting from C1 vertebra.
+L5 is sacralized.
+L4-L5 LEVEL: Mild diffuse disc bulge causing anterior thecal sac indentation. Reduced
+intervertebral disc height. Mild defect in bilateral pars-interarticularis fixed with bilateral
+trans-pedicular screws in situ. Mild intramuscular edema within the paraspinal muscles.
+Bilateral trans-pedicular screws in situ at L3, L4 and L5 vertebrae.
+Date 22-09-2024 Time 19-03-58
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : AMA
+Modality : MR Sex : M
+Age : 14Y Study : head^GenX
+Reff. Dr. : Study Date : 07-08-2024
+CEMRI BRAIN
+T1, T2, FLAIR, DWI, SWI - axials; 3D T1 - FSE sagittal, T1 + C 3D SAG
+FINDINGS:
+Cerebral parenchyma shows normal morphology and signal intensity. No evidence of any focal or diffuse lesion.
+Bilateral basal ganglia and thalamus appears normal.
+The sellar and parasellar regions are normal.
+The brainstem and cerebellum are normal.
+Ventricular system are normal.
+Cisterns & subarachnoid spaces shows normal CSF signal.
+Bilateral IAM & 7th & 8th nerve appears normal.
+Intracranial vessels and dural venous sinuses shows normal flow signal.
+The C.V. junction is normal.
+Visualised paranasal sinuses & orbits are normal.
+INNER EAR:
+Bilateral CP angles appear normal.
+Bilateral Vestibule appear normal.
+Cochlea appear normal bilaterally.
+Vestibule and all three Semicircular Canals appear normal in configuration bilaterally.
+Internal Auditory Canal and Meati appear normal bilaterally. No undue expansion or erosions seen.
+Facial and Vestibulocochlear nerves appears normal bilaterally.
+Bilateral mastoid air cells and antrum appear normal.
+        </Medical_Report>
+
+        <Impression>
+        No significant abnormality detected.
+Bilateral inner ears appear normal.
+Date 08-08-2024 Time 07-20-24
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",0
+"<Medical_Report>
+        : ANO_20240721_0952234
+Modality : CT Sex :
+Age : 46Y Study :
+Reff. Dr. : Study Date : 20-07-2024
+CT TEMPORAL BONE
+Serial contiguous axial sections of the Temporal Bones were obtained in a helical mode using a MDCT Scanner.
+In addition post-processing reconstruction was done.
+FINDINGS:
+Minimal opacification is seen in the right Prussack space.
+Left middle ear cavity appears normal.
+External Auditory Canal appears normal bilaterally.
+Middle Ear Ossicles i.e. Malleus, Incus & Stapes with Incudo-stapedial articulation appear normal.
+Oval Window and Sinus Tympanum appear normal bilaterally.
+Round Window Niche appears normal bilaterally.
+Bilateral Vestibule appear normal.
+Basal turn of Cochlea and Cochlear Promontory appear normal bilaterally.
+All three Semicircular Canals appear normal in configuration bilaterally.
+Internal Auditory Canal and Meati appear normal bilaterally. No undue expansion or erosions seen.
+Horizontal and Vertical limbs of Facial Canal appears normal bilaterally.
+Jugular fossa appears normal in configuration bilaterally.
+Intra-osseous Canal for Internal Carotid Arteries including the vertical and petrous parts appear normal
+bilaterally.
+Bilateral mastoid air cells and antrum appear normal.
+        </Medical_Report>
+
+        <Impression>
+        Minimal opacification in the right Prussack space, suggestive of right sided otitis media.
+Date 21-07-2024 Time 21-26-00
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : ARC
+Modality : MR Sex : F
+Age : 68Y Study : pelvis^GenX
+Reff. Dr. : Study Date : 27-10-2024
+CEMRI PELVIS
+Multiplanar imaging with T1 & T2 FSE, T2 FAT SAT and STIR, DWI, T1+ C AXIAL, SAG, COR
+FINDINGS:
+Uterus measures 8.3 cm x 6.6 cm x 4.3 cm and is anteverted.
+Ill-defined enhancing T1 hypointense/ T2 isointense soft tissue mass measuring 3 cm x 4.2 cm x 7 cm (AP X TR
+X CC) is seen occupying the entire endometrial cavity. The mass is invading >50 % of the left lower
+myometrium. Inferiorly, the mass is mildly extending to upper anterior and posterior cervical stroma. No
+obvious extension outside the uterus is seen. The mass shows diffusion restriction.
+An enlarged necrotic right obturator lymph node is seen measuring 2 cm in short axis.
+Vaginal canal is normal.
+Pelvic side walls are normal.
+Distal ureters are not involved.
+Urinary bladder is well distended. No obvious intraluminal pathology.
+Bilateral ovaries are post-menopausal.
+Rectoanal canal and bilateral ischio rectal fossa appears normal.
+Minimal free fluid in pouch of douglas.
+Sacrum, coccyx and visualised bones appear normal.
+Gluteal and visualised thigh muscles appears normal.
+Bilateral hip & sacroiliac joints are normal.
+Note made of defect in bilateral pars interarticularis of L5 causing grade 1 anterolisthesis of L5 over S1.
+        </Medical_Report>
+
+        <Impression>
+        Ill-defined enhancing soft tissue mass occupying the entire endometrial cavity, invading
+more than 50% of the left lower myometrium and mildly extending to the upper cervical
+stroma- s/o endometrial carcinoma. Advised endometrial biopsy.
+An enlarged necrotic right obturator lymph node measuring 2 cm in short axis.
+CEMRI UPPER ABDOMEN
+Multiecho T1 & T2 sequences in axial sagittal and coronal planes. T1+C post-contrast vibe.
+FINDINGS:
+Liver is normal in size, shape and signal intensity with no evidence of any focal lesion. The intrahepatic biliary
+radicals and common duct are not dilated.
+The gall bladder is well distended and appears normal.
+CBD appears normal in course and caliber.
+The pancreas is normal with no evidence of any focal lesion. The peripancreatic fat planes and retroperitoneum
+appear normal.
+The spleen is normal in size, shape and signal intensity.
+Both kidneys are normal in size, shape and outline. Pelvicalyceal systems and ureters are normal in caliber.
+Both the adrenals are normal in size, shape and signal intensity pattern. No evidence of any adrenal mass lesion.
+Visualised bones appear grossly normal.
+IMPRESSION :
+No significant abnormality detected.
+Date 27-10-2024 Time 19-17-07
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",3
+"<Medical_Report>
+        : 375245570
+Modality : CT Sex : M
+Age : 32Y Study : CECT ABD&THORAX
+Reff. Dr. : Study Date : 10-09-2024
+CT CHEST
+NCCT sections of chest were studied without contrast. Post processing MPR was done in coronal & sagittal
+mode.
+FINDINGS:
+Lung parenchyma appears normal in attenuation.
+No focal nodule, bronchiectasis or interstitial thickening.
+Trachea, carina & major bronchi are normal.
+No Mediastinal lymphadenopathy noted.
+Visualised bones are grossly normal.
+        </Medical_Report>
+
+        <Impression>
+        No significant abnormality detected.
+CECT ABDOMEN AND PELVIS
+Helical MDCT study of abdomen and pelvis done with IV contrast.
+FINDINGS :
+Liver is normal in size (14.8 cm), density and morphology. IHBR not dilated. No SOL seen.
+Splenoportal vein is normal.
+Spleen is normal in size (6.4 cm) and density.
+GB shows normal walls and lumen. (Calculi better visulised in Ultrasound)
+CBD is normal.
+Pancreas normal in size and density. No calculi or ductal dilatation.
+Appendix is prominent (diameter: 8 mm). However, no evidence of any periappendiceal inflammation seen.
+Stomach, duodenum, small and large bowel are normal.
+Bilateral kidneys are normal in size, shape. No calculus seen. Pelvicalyceal system is normal. Perinephric region
+is normal.
+Ureters are normal.
+Adrenal appears normal.
+UB shows normal wall and lumen.
+Prostate appears normal in morphology and density.
+Retroperitoneum is normal.
+No free fluid noted.
+Aorta, IVC and para-aortic regions are normal. No para-aortic lymphnodes seen.
+Visualised bones and abdominal wall are normal.
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",0
+"<Medical_Report>
+        : BAS
+Modality : MR Sex : M
+Age : 54Y Study : l-spine^GenX
+Reff. Dr. : Study Date : 17-10-2024
+MRI L.S. SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials ; STIR, T2 FSE coronal & MR Myelography of the lumbar spine were studied. Whole
+spine screening also done.
+FINDINGS :
+L4-L5 LEVEL: Disc desiccation with diffuse disc bulge causing anterior thecal sac indentation. Bilateral facet
+joints arthrosis.
+L5-S1 LEVEL: Disc desiccation with diffuse disc bulge causing anterior thecal sac indentation. Bilateral facet
+joints arthrosis.
+L3-L4 LEVEL: Left facet joint arthrosis.
+L2-L3 LEVEL: Bilateral facet joints arthrosis.
+L1-L2 LEVEL: Small anterior marginal osteophytes.
+Rest of the intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+AP Sagittal Canal Diameter mms :
+L1 â€“ 14.5 L1-L2 â€“
+16.5
+L2 â€“ 15 L2-L3 â€“
+14.5
+L3 â€“ 14.1 L3-L4 â€“ 15
+L4 â€“ 13.2 L4-L5 â€“ 14
+L5 â€“ 12.8 L5-S1 â€“
+12.6
+SI JOINTS:
+Bilateral sacroilliac joints appears normal.
+SCREENING OF CERVICAL & DORSAL SPINE :
+Loss of cervical lordosis.
+C4-C5, C5-C6 and C6-C7 LEVELS: Disc desiccation with diffuse disc bulge with posterior longitudinal ligament
+hypertrophy causing anterior thecal sac indentation. No obvious cord compression. Cord signal is normal.
+Schmorl's node at inferior endplate of D9, D10 and D11 vertebra.
+Rest of cervico-dorsal IV discs appears normal.
+Cervico-dorsal vertebral bodies appears normal.
+Cervico-dorsal spinal canal & cord appears normal.
+        </Medical_Report>
+
+        <Impression>
+        L4-L5 LEVEL: Disc desiccation with diffuse disc bulge causing anterior thecal sac indentation.
+Bilateral facet joints arthrosis.
+L5-S1 LEVEL: Disc desiccation with diffuse disc bulge causing mild anterior thecal sac
+indentation. Bilateral facet joints arthrosis.
+L3-L4 LEVEL: Left facet joint arthrosis.
+L2-L3 LEVEL: Bilateral facet joints arthrosis.
+L1-L2 LEVEL: Small anterior marginal osteophytes.
+Date 17-10-2024 Time 20-18-59
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : PUJ
+Modality : MR Sex : M
+Age : 30Y Study : c-spine^GenX
+Reff. Dr. : Study Date : 21-07-2024
+MRI CERVICAL SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials; STIR, T2 FSE coronal & MR Myelography of the Cervical spine were studied.
+Whole spine screening also done.
+FINDINGS:
+Loss of cervical lordosis.
+C4-C5 LEVEL: Disc desiccation with mild posterior disc bulge and posterior longitudinal ligament hypertrophy
+causing minimal anterior thecal sac indentation.
+C5-C6 LEVEL: Disc desiccation with mild posterior disc bulge and posterior longitudinal ligament hypertrophy
+causing mild anterior thecal sac indentation. Few small marginal osteophytes.
+C6-C7 LEVEL: Posterocentral disc bulge causing mild anterior thecal sac indentation. Posterior longitudinal
+ligament hypertrophy.
+Rest of intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+Cervical spinal canal appears normal.
+Cervical cord is normal in morphology and MR signal intensity.
+The pre and paravertebral soft tissues appear normal.
+CV Junction appears normal.
+No evidence of any chiari malformation.
+AP diameter ..:
+C2-C3: 13.3 mm.
+C3-C4: 11.5 mm.
+C4-C5: 10.5 mm.
+C5-C6: 10.1 mm.
+C6-C7: 9.5 mm.
+SCREENING OF DORSO-LUMBAR SPINE:
+Loss of lumbar lordosis.
+L4-L5 and L5-S1 LEVELS: Mild posterior disc bulge causing minimal anterior thecal sac indentation.
+Rest of dorso-lumbar IV discs appears normal.
+Dorso-lumbar vertebral bodies appears normal.
+Dorso-lumbar spinal canal & cord appears normal.
+        </Medical_Report>
+
+        <Impression>
+        Loss of cervical lordosis.
+C4-C5 LEVEL: Disc desiccation with mild posterior disc bulge and posterior longitudinal
+ligament hypertrophy causing minimal anterior thecal sac indentation.
+C5-C6 LEVEL: Disc desiccation with mild posterior disc bulge and posterior longitudinal
+ligament hypertrophy causing mild anterior thecal sac indentation. Few small marginal
+osteophytes.
+C6-C7 LEVEL: Posterocentral disc bulge causing mild anterior thecal sac indentation.
+Posterior longitudinal ligament hypertrophy.
+Loss of lumbar lordosis.
+L4-L5 and L5-S1 LEVELS: Mild posterior disc bulge causing minimal anterior thecal sac
+indentation.
+Date 21-07-2024 Time 19-49-42
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : MAN
+Modality : MR Sex : M
+Age : 66Y Study : c-spine^GenX
+Reff. Dr. : Study Date : 18-06-2024
+MRI CERVICAL SPINE WITH WHOLE SPINE SCREENING
+T1, T2 - sagittal and axials; STIR, T2 FSE coronal & MR Myelography of the Cervical spine were studied.
+Whole spine screening also done.
+FINDINGS:
+Reversal of cervical lordosis.
+C7-D1 LEVEL: Grade 1 anterolisthesis of C7 over D1 with protrusion of intervertebral disc and ligamentum
+flavum hypertrophy is seen. There is associated hypertrophy of bilateral facet joints and unco-vertebral joints,
+the combination of which is causing compression with myelomalacic changes of the adjacent spinal cord. There is
+loss of intervertebral disc height with endplate modic changes and anterior marginal osteophytes.
+C4-C5 and C5-C6 LEVEL: Posterior disc osteophyte complex with mild ligamntum flavum hypertrophy causing
+indentation of the thecal sac. There is loss of intervertebral disc height with endplate modic changes.
+Diffuse disc bulge is noted at all other levels causing anterior thecal sac indentation.
+Facet joints and unco-vertebral joints arthrosis at multiple levels.
+Reduced intervertebral disc height at multiple levels.
+Rest of vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+Rest of cervical cord is normal in morphology and MR signal intensity.
+The pre and paravertebral soft tissues appear normal.
+CV Junction appears normal.
+No evidence of any chiari malformation.
+AP diameter :
+C2-C3: 14.1 mm.
+C3-C4: 11.9 mm.
+C4-C5: 9 mm.
+C5-C6: 9.7 mm.
+C6-C7: 11.2 mm.
+SCREENING OF DORSO-LUMBAR SPINE:
+Loss of lumbar lordosis.
+L4-L5 LEVEL: Degenerative changes of pars interarticularis with grade 1 anterolisthesis of L4 over L5 with
+protrusion of intervertebral disc causing anterior thecal sac indentation.
+L1-L2 LEVEL: Degenerative changes of pars interarticularis with grade 1 retrolisthesis of L1 over L2 with
+protrusion of intervertebral disc causing anterior thecal sac indentation.
+L2-L3 LEVEL: Degenerative changes of pars interarticularis with grade 1 retrolisthesis of L2 over L3 with
+protrusion of intervertebral disc causing anterior thecal sac indentation.
+L3-L4 LEVEL: Diffuse disc bulge causing anterior thecal sac indentation.
+L5-S1 LEVEL: Diffuse disc bulge with ligamentum flavum hypertrophy and marginal osteophytes.
+D6-D7, D7-D8, D8-D9, D9-D10, D10-D11 and D11-D12 LEVELS: Disc desiccation with diffuse disc bulge causing
+anterior thecal sac indentation.
+Ligamentum flavum hypertrophy, endplate modic changes and marginal osteophytes seen at mutiple levels.
+Degenerative changes of facet joints at multiple levels.
+Dorso-lumbar spinal canal & cord appears normal.
+        </Medical_Report>
+
+        <Impression>
+        Severe degenerative changes of cervical spine as described.
+Anterolisthesis with degenerative changes causing compressive myelopathy at C7-D1 level.
+Severe degenerative changes of lumbar spine with degenerative changes of pars-
+interraticularis causing spondylolisthesis at multiple levels as described.
+Moderate degenerative changes of dorsal spine.
+Date 18-06-2024 Time 20-59-40
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",3
+"<Medical_Report>
+        : AML
+Modality : MR Sex : M
+Age : 45Y Study : l-spine^GenX
+Reff. Dr. : Study Date : 16-10-2024
+MRI CERVICAL SPINE WITH DORSAL SPINE SCREENING
+T1, T2 - sagittal and axials; STIR, T2 FSE coronal & MR Myelography of the Cervical spine were studied.
+Dorsal spine screening also done.
+FINDINGS:
+Loss of cervical lordosis.
+C5-C6 LEVEL: Diffuse disc bulge with bilateral mild unco-vertebral joints arthrosis causing anterior thecal sac
+indentation. Small anterior marginal osteophytes.
+C6-C7 LEVEL: Right paracentral disc bulge causing mild anterior thecal sac indentation.
+C3-C4 and C4-C5 LEVELS: Mild diffuse disc bulge causing mild anterior thecal sac indentation.
+Rest of intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+Cervical spinal canal appears normal.
+Cervical cord is normal in morphology and MR signal intensity.
+The pre and paravertebral soft tissues appear normal.
+CV Junction appears normal.
+No evidence of any chiari malformation.
+AP diameter ..:
+C2-C3: 12.6 mm.
+C3-C4: 10.1 mm.
+C4-C5: 10.1 mm.
+C5-C6: 10.1 mm.
+C6-C7: 11.9 mm.
+SCREENING OF DORSAL SPINE:
+Dorsal IV discs appears normal.
+Dorsal vertebral bodies appears normal.
+Dorsal spinal canal & cord appears normal.
+        </Medical_Report>
+
+        <Impression>
+        Loss of cervical lordosis.
+C5-C6 LEVEL: Diffuse disc bulge with bilateral mild unco-vertebral joints arthrosis causing
+anterior thecal sac indentation. Small anterior marginal osteophytes.
+C6-C7 LEVEL: Right paracentral disc bulge causing mild anterior thecal sac indentation.
+C3-C4 and C4-C5 LEVELS: Mild diffuse disc bulge causing mild anterior thecal sac
+indentation.
+MRI L.S. SPINE
+T1, T2 - sagittal and axials ; STIR, T2 FSE coronal & MR Myelography of the lumbar spine were studied. Whole
+spine screening also done.
+FINDINGS :
+Loss of lumbar lordosis.
+L4-L5 LEVEL: Diffuse disc bulge with left foraminal disc bulge causing anterior thecal sac indentation and mild
+narrowing of left lateral recess. Left facet joint arthrosis.
+L3-L4 and L5-S1 LEVELS: Mild diffuse disc bulge causing mild anterior thecal sac indentation.
+The rest of intervertebral discs show normal signal intensity and no evidence of disc prolapse.
+Vertebral bodies, pedicles, laminae and spinous processes shows normal morphology and alignment.
+The conus medullaris and nerve roots of cauda equina signals appear normal.
+The pre and paravertebral soft tissues appear normal.
+AP Sagittal Canal Diameter mms :
+L1 â€“ 16.3 L1-L2 â€“
+16.8
+L2 â€“ 15 L2-L3 â€“ 14
+L3 â€“ 12.7 L3-L4 â€“
+12.8
+L4 â€“ 13.6 L4-L5 â€“
+13.2
+L5 â€“ 12.8 L5-S1 â€“
+11.9
+SI JOINTS:
+Bilateral sacroilliac joints appears normal.
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : ASI
+Modality : MR Sex : M
+Age : 24Y Study : ankle^Genex
+Reff. Dr. : Study Date : 25-04-2024
+MRI ANKLE
+Multiplanar MRI of the ankle was performed using T1W, T2 W and PD non-contrast with fat suppression.
+FINDINGS:
+Few small T1/ T2 hypointense foci, largest measuring 10 mm x 8 mm are noted on anterior aspect of tibio-talar joint. There is
+minimal surrounding edema.
+Lower end of tibia and fibula shows normal alignment and signal intensity. No area of bony contusion or edema seen.
+Calcaneum, talus, other tarsal and visualized metatarsal bone appears normal.
+ATFL, PTFL and calcaneofibular ligament appears normal.
+Deltoid ligament and spring ligament appears normal.
+Tibio-talar, subtalar and other intertarsal joints show normal joint space and articular margins. No joint effusion.
+Posteromedial flexor tendons and posterolateral peroneal tendons are normal in course and caliber. No surrounding synovitis.
+Tibialis anterior and extensor tendon are normal.
+Plantar fascia and muscle appears normal.
+Tendoachilles appears normal.
+        </Medical_Report>
+
+        <Impression>
+        Few small hypointense foci in anterior aspect of tibio-talar joint, likely loose bodies.
+Date 25-04-2024 Time 18-36-24
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",1
+"<Medical_Report>
+        : HAR
+Modality : MR Sex : F
+Age : 35Y Study : pelvis^GenX
+Reff. Dr. : Study Date : 12-06-2024
+MRI KUB
+MULTIECHO T1 & T2 SEQUENCES IN AXIAL SAGITTAL AND CORONAL PLANES.
+FINDINGS:
+Mild dilatation of right sided pelvicalyceal system and right ureter is seen. AP diameter of right renal pelvis is 3.8
+cm. DJ stent in situ on right side with its proximal end in right pelvis and distal end in urinary bladder. There is
+abrupt narrowing of the right ureter at the level of S1 vertebra. No obvious aggressive lesion seen at site of
+narrowing.
+Tiny concretion measuring 3 mm at upper pole of left kidney.
+Both kidneys are normal in size, shape and outline with normal cortico-medullary differentiation.
+Right kidney measures 10.3 cm x 4.3 cm.
+Left kidney measures 12.3 cm x 5.7 cm.
+Left pelvicalyceal system and left ureter are normal.
+Both the adrenals are normal in size, shape and signal intensity pattern. No evidence of any adrenal mass lesion.
+Urinary bladder is normal in position, outline with clear lumen and smooth thin walls.
+Uterus is normal in size and is anteverted. Myometrium appears normal. Endometrial thickness is within the
+normal limits.
+Bilateral ovaries are bulky and show multiple small peripherally arranged follicles. No obvious dominant follicle.
+Right ovary measures 4.7 cm x 2.3 cm x 3.5 cm (vol: 18 cc) and left ovary measures 4.1 cm x 3.1 cm x 2.1 cm (vol:
+13 cc)
+No free fluid or loculated collection is seen.
+There is no evidence of abdominal lymphadenopathy. Major abdominal blood vessels are normal.
+Visualised bones appear grossly normal.
+        </Medical_Report>
+
+        <Impression>
+        Right mild hydroureteronephrosis with abrupt narrowing of distal ureter at S1 vertebral level,
+suggestive of ureteric stricture.
+Right sided DJ stent in situ.
+Tiny concretion measuring 3 mm at upper pole of left kidney.
+Bilateral polycystic ovarian morphology. Advised clinico-hormonal correlation.
+Ã
+Date 12-06-2024 Time 19-44-06
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",2
+"<Medical_Report>
+        : PIT
+Modality : MR Sex : M
+Age : 74Y Study : l-spine^GenX
+Reff. Dr. : Study Date : 04-11-2024
+CEMRI DORSO-LUMBAR SPINE WITH CERVICAL SPINE SCREENING
+T1, T2 - sagittal and axials; STIR, T2 FSE coronal & MR Myelography of the Dorso-lumbar spine were studied.
+Cervical spine screening was also done. Intravenous contrast study also done.
+FINDINGS:
+T1/T2 hypointensity with collapse of D6 vertebra. There is mild perivertebral enhancement.
+T2 hypointense enhancing thickening of max. thickness: 5.5 mm is seen along the right lateral epidural space
+extending from D4 to D6 level compressing the adjacent spinal cord.
+L5 is sacralized.
+L1L2, L3-L4 and L4-L5 LEVELS: Disc desiccation with diffuse disc bulge causing anterior thecal sac
+indentation.
+The rest of intervertebral discs show normal signal intensity with no evidence significant disc herniation.
+Rest of vertebral bodies, pedicles, laminae and spinous processes show normal morphology and alignment.
+Rest of dorsal spinal canal and cord appears normal.
+The conus medullaris and nerve roots of cauda equina signals appear normal. The subarchnoid CSF space shows
+normal signal.
+The pre and paravertebral soft tissues appear normal.
+Note made of enlarged prostate.
+SCREENING OF CERVICAL SPINE:
+C3-C4, C4-C5, C5-C6 and C6-C7 LEVELS: Disc desiccation with posterior disc osteophyte complex with
+bilateral unco-vertebral joints arthrosis causing indentation of anterior thecal sac.
+Rest of cervical IV discs appear normal.
+Cervical vertebral bodies appear normal.
+Cervical spinal canal & cord appears normal.
+        </Medical_Report>
+
+        <Impression>
+        T1/T2 hypointensity with collapse of D6 vertebra ?osteoblastic metastasis. Advised HPE
+correlation. There is mild perivertebral enhancement.
+T2 hypointense enhancing thickening along the right lateral epidural space extending
+from D4 to D6 level compressing the adjacent spinal cord.
+Lumbosacral transitional vertebra, type IIIb. L5 is sacralized.
+Mild lumbar and moderate cervical spondylosis as described.
+Note made of enlarged prostate.
+Date 04-11-2024 Time 20-35-15
+        </Impression>
+
+        You are a medical practitioner responsible for assessing the severity of diseases based on the patient's medical condition
+        as detailed in the provided report and impressions. Your task is to analyze the report carefully and classify the severity
+        level on a scale of 0 to 3, where:
+        0 indicates the absence of the disease (Absent),
+        1 indicates a mild condition (Mild),
+        2 indicates a moderate condition (Moderate),
+        3 indicates a severe condition (Severe).
+        Ensure that your assessment is based on clinical indicators, lab results, imaging findings, and any relevant medical impressions
+        present in the report. Provide only the numerical severity index as the output, without any additional text or explanation.
+        ",3
