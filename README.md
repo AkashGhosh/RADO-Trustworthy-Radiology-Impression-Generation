@@ -2,5 +2,5 @@
 Accepted in ACM Transactions on Computing for  Healthcare 
 
 <p align="center">
-  <img src="./Image/RADO_final.png" />
+  <a href="./Image/RADO_final.pdf">📄 View Full Paper (PDF)</a>
 </p>
