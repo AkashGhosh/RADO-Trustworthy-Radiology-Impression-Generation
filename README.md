@@ -14,9 +14,57 @@
 - **Hugging Face**: RIB is also available on Hugging Face:  
 
 
+
 ## Installation
 
+This repository uses [uv](https://github.com/astral-sh/uv) for fast Python dependency management. To install all required packages, simply run:
+
+```bash
+uv sync
+```
+
+## Usage
+
+All main scripts for model training, inference, and reward calculation are in the `codes/` folder. To run any script, update the model and data paths as needed inside the script, then execute:
+
+```bash
+python codes/<script_name>.py
+```
+
+For example:
+
+```bash
+python codes/model_finetuning.py
+```
+
 ## Repository Structure
+
+```
+├── codes/
+│   ├── baselines_score_calculation.py      # Baseline score calculation scripts
+│   ├── dpo.py                              # DPO training script
+│   ├── model_inference.py                  # Model Inference script
+│   ├── model_finetuning.py                 # Model finetuning script
+│   ├── reward_score_generation.py          # Reward score generation
+│   ├── reward_score_merger.py              # Reward score merging
+│   └── severity_reward_model_training.py   # Severity reward model training script
+│
+├── datasets/
+│   ├── fbr_train.csv                      # Training data for reward model
+│   ├── fbr_val.csv                        # Validation data
+│   ├── fbr_test.csv                       # Test data
+│   ├── instruct_train.csv                 # Training data for finetuning models 
+│   └── instruct_test.csv                  # Test data
+│
+├── Image/
+│   ├── RADO_final_page-0001.jpg           # Main paper image
+│   ├── RADO_final.pdf                     # Paper PDF
+│   ├── RADO_Qualitative_Analysis.jpg      # Qualitative analysis image
+│   └── temp/                              # Temporary images
+│
+├── pyproject.toml
+├── README.md
+```
 
 
 ## About the Paper
