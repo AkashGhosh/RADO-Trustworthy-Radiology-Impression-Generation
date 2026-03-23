@@ -51,10 +51,10 @@ python codes/model_finetuning.py
 │
 ├── datasets/
 │   ├── fbr_train.csv                      # Training data for reward model
-│   ├── fbr_val.csv                        # Validation data
-│   ├── fbr_test.csv                       # Test data
-│   ├── instruct_train.csv                 # Training data for finetuning models 
-│   └── instruct_test.csv                  # Test data
+│   ├── fbr_val.csv                        # Validation data for reward model
+│   ├── fbr_test.csv                       # Test data for reward model
+│   ├── instruct_train.csv                 # Training data for finetuning models (RIB Train)
+│   └── instruct_test.csv                  # Test data (RIB Test)
 │
 ├── Image/
 │   ├── RADO_final_page-0001.jpg           # Main paper image
