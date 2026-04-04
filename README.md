@@ -101,6 +101,21 @@ RADO is a novel framework for radiology impression generation that integrates sa
 | RADO(PPO) | 55.34 | 47.8 | 54.10 | 0.84 | 51.56 | 60.45 |
 
 
+## Citation
+
+If you find our work useful or use it in your research, please consider citing:
+
+```bibtex
+@article{ghosh2026rado,
+  title={RADO: Trustworthy Radiology Impression Generation using Safety and Faithfulness based Preference Optimization},
+  author={Ghosh, Akash and Kumar, Nishant and Patnaik, Nitesh and Prakash, Adity and Raj, Rishi and Saha, Sriparna},
+  journal={ACM Transactions on Computing for Healthcare},
+  year={2026},
+  publisher={ACM New York, NY}
+}
+```
+
+
 ## Qualitative Analysis
 
 <p align="center">
