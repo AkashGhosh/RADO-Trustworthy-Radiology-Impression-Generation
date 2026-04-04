@@ -101,6 +101,16 @@ RADO is a novel framework for radiology impression generation that integrates sa
 | RADO(PPO) | 55.34 | 47.8 | 54.10 | 0.84 | 51.56 | 60.45 |
 
 
+
+
+
+## Qualitative Analysis
+
+<p align="center">
+  <img src="./Image/RADO_Qualitative_Analysis.jpg" />
+</p>
+
+
 ## Citation
 
 If you find our work useful or use it in your research, please consider citing:
@@ -114,11 +124,3 @@ If you find our work useful or use it in your research, please consider citing:
   publisher={ACM New York, NY}
 }
 ```
-
-
-## Qualitative Analysis
-
-<p align="center">
-  <img src="./Image/RADO_Qualitative_Analysis.jpg" />
-</p>
-
