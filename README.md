@@ -107,7 +107,7 @@ RADO is a novel framework for radiology impression generation that integrates sa
 ## Qualitative Analysis
 
 <p align="center">
-  <img src="./Project_Images/medfocus_attack_1.jpg" />
+  <img src="./Images/RADO_Qualitative_Analysis.jpg" />
 </p>
 
 
